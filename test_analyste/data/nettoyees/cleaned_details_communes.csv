@@ -1,0 +1,201 @@
+commune_id,commune,prefecture,region,latitude,longitude,altitude_m,superficie_km2,population_densite,code_postal,type_commune,distance_capitale_km,zone_climatique
+COM001,Vogan,Vo,Maritime,6.2295,1.504,19,343,35,BP 272,Rurale,34,Côtière
+COM002,Hahotoé,Vo,Maritime,6.6892,1.6588,39,398,210,BP 239,Semi-urbaine,79,Côtière
+COM003,Anyronkopé,Vo,Maritime,6.4158,1.2398,47,215,76,BP 495,Rurale,31,Côtière
+COM004,Momé,Vo,Maritime,6.2023,1.618,41,230,95,BP 60,Rurale,45,Côtière
+COM005,Dagbati,Vo,Maritime,6.3068,1.6507,25,318,58,BP 235,Rurale,52,Côtière
+COM006,Akoumapé,Vo,Maritime,6.5616,1.1123,57,538,74,BP 32,Rurale,48,Côtière
+COM007,Sevagan,Vo,Maritime,6.2173,1.2472,17,310,64,BP 152,Rurale,10,Côtière
+COM008,Wogba,Vo,Maritime,6.2618,1.5716,23,242,51,BP 123,Rurale,42,Côtière
+COM009,Koutigué,Vo,Maritime,6.3401,1.5525,9,172,114,BP 145,Semi-urbaine,44,Côtière
+COM010,Lomé,Golfe,Maritime,6.6952,1.4561,69,190,4690,BP 137,Urbaine,68,Côtière
+COM011,Aflao-Gakli,Golfe,Maritime,6.2115,1.3873,43,303,79,BP 265,Rurale,21,Côtière
+COM012,Bè-Est,Golfe,Maritime,6.5814,1.2798,67,360,69,BP 237,Rurale,50,Côtière
+COM013,Bè-Ouest,Golfe,Maritime,6.6432,1.5084,35,229,92,BP 393,Rurale,65,Côtière
+COM014,Amoutivé,Golfe,Maritime,6.4819,1.4127,66,587,35,BP 300,Rurale,44,Côtière
+COM015,Baguida,Golfe,Maritime,6.6165,1.1737,69,190,176,BP 265,Semi-urbaine,53,Côtière
+COM016,Togblékopé,Golfe,Maritime,6.4349,1.6223,35,198,291,BP 58,Semi-urbaine,56,Côtière
+COM017,Aflao-Sagbado,Golfe,Maritime,6.5254,1.4652,45,474,77,BP 174,Rurale,51,Côtière
+COM018,Legbassito,Golfe,Maritime,6.3067,1.306,14,353,379,BP 375,Semi-urbaine,21,Côtière
+COM019,Vakpossito,Golfe,Maritime,6.272,1.3712,62,554,95,BP 86,Rurale,23,Côtière
+COM020,Aného,Lacs,Maritime,6.3144,1.3789,54,249,89,BP 235,Rurale,27,Côtière
+COM021,Glidji,Lacs,Maritime,6.3362,1.2126,25,181,377,BP 356,Semi-urbaine,22,Côtière
+COM022,Agouégan,Lacs,Maritime,6.5493,1.6887,70,337,53,BP 364,Rurale,70,Côtière
+COM023,Aklakou,Lacs,Maritime,6.35,1.3641,20,258,219,BP 277,Semi-urbaine,29,Côtière
+COM024,Ganavé,Lacs,Maritime,6.3649,1.4155,61,502,79,BP 114,Rurale,34,Côtière
+COM025,Agbodrafo,Lacs,Maritime,6.5684,1.6742,34,504,45,BP 158,Rurale,70,Côtière
+COM026,Kouve,Lacs,Maritime,6.6558,1.2556,49,463,63,BP 323,Rurale,58,Côtière
+COM027,Tabligbo,Yoto,Maritime,6.2225,1.6213,8,393,30,BP 380,Rurale,46,Côtière
+COM028,Ahépé,Yoto,Maritime,6.4008,1.1897,58,488,25,BP 88,Rurale,29,Côtière
+COM029,Kouvé,Yoto,Maritime,6.3459,1.1203,42,466,38,BP 54,Rurale,25,Côtière
+COM030,Tokpli,Yoto,Maritime,6.3875,1.181,28,251,30,BP 449,Rurale,28,Côtière
+COM031,Gboto,Yoto,Maritime,6.357,1.1602,12,352,90,BP 391,Rurale,25,Côtière
+COM032,Zafi,Yoto,Maritime,6.1349,1.5794,35,290,50,BP 399,Rurale,41,Côtière
+COM033,Tchékpo,Yoto,Maritime,6.6128,1.6581,17,372,257,BP 304,Semi-urbaine,72,Côtière
+COM034,Afagnan,Bas-Mono,Maritime,6.3878,1.2879,58,250,340,BP 364,Semi-urbaine,29,Côtière
+COM035,Agazou,Bas-Mono,Maritime,6.5195,1.4087,67,420,25,BP 229,Rurale,48,Côtière
+COM036,Attitogon,Bas-Mono,Maritime,6.2308,1.6298,33,292,314,BP 186,Semi-urbaine,47,Côtière
+COM037,Hompou,Bas-Mono,Maritime,6.6689,1.4203,16,204,25,BP 117,Rurale,63,Côtière
+COM038,Kpetou,Bas-Mono,Maritime,6.4763,1.5815,33,285,307,BP 278,Semi-urbaine,56,Côtière
+COM039,Tsévié,Zio,Maritime,6.1125,1.2066,66,102,1427,BP 124,Urbaine,3,Côtière
+COM040,Agbelouvé,Zio,Maritime,6.5653,1.5996,42,364,37,BP 293,Rurale,64,Côtière
+COM041,Gblainvié,Zio,Maritime,6.1637,1.151,68,239,244,BP 369,Semi-urbaine,7,Côtière
+COM042,Gapé,Zio,Maritime,6.6939,1.1789,16,278,80,BP 318,Rurale,62,Côtière
+COM043,Kovié,Zio,Maritime,6.3759,1.2368,21,417,33,BP 429,Rurale,27,Côtière
+COM044,Bolou,Zio,Maritime,6.5883,1.2586,20,342,272,BP 486,Semi-urbaine,50,Côtière
+COM045,Gamé,Zio,Maritime,6.2196,1.2554,9,550,40,BP 303,Rurale,10,Côtière
+COM046,Mission-Tové,Zio,Maritime,6.1319,1.4152,58,565,90,BP 251,Rurale,22,Côtière
+COM047,Abobo,Zio,Maritime,6.3577,1.4918,9,518,85,BP 486,Rurale,39,Côtière
+COM048,Kévé,Ave,Maritime,6.5429,1.4322,36,565,53,BP 369,Rurale,51,Côtière
+COM049,Assahoun,Ave,Maritime,6.4202,1.4697,49,527,35,BP 6,Rurale,42,Côtière
+COM050,Badja,Ave,Maritime,6.3149,1.1087,28,497,80,BP 251,Rurale,23,Côtière
+COM051,Noépé,Ave,Maritime,6.5822,1.3666,34,224,269,BP 37,Semi-urbaine,52,Côtière
+COM052,Aképé,Ave,Maritime,6.238,1.2078,41,229,48,BP 395,Rurale,11,Côtière
+COM053,Atakpamé,Ogou,Plateaux,7.3133,1.1083,354,137,3058,BP 87,Urbaine,131,Transition
+COM054,Gléï,Ogou,Plateaux,7.2962,1.2088,438,151,144,BP 463,Semi-urbaine,129,Transition
+COM055,Datcha,Ogou,Plateaux,7.4198,0.6178,204,541,82,BP 205,Rurale,157,Transition
+COM056,Akparé,Ogou,Plateaux,7.6443,1.0933,620,271,29,BP 448,Rurale,168,Plateau/Montagneux
+COM057,Ountivou,Ogou,Plateaux,6.8704,0.8606,580,600,61,BP 66,Rurale,90,Transition
+COM058,Kpalimé,Kloto,Plateaux,7.0321,1.3751,413,133,1969,BP 284,Urbaine,101,Transition
+COM059,Agou,Kloto,Plateaux,7.5735,1.3233,454,316,82,BP 98,Rurale,160,Savane
+COM060,Kuma,Kloto,Plateaux,7.2998,0.8104,677,234,69,BP 163,Rurale,137,Transition
+COM061,Lavie,Kloto,Plateaux,7.5069,0.9189,566,506,78,BP 235,Rurale,156,Plateau/Montagneux
+COM062,Tové,Kloto,Plateaux,7.2901,1.2688,727,443,73,BP 3,Rurale,128,Transition
+COM063,Kpadapé,Kloto,Plateaux,7.9062,1.2343,699,260,342,BP 259,Semi-urbaine,197,Plateau/Montagneux
+COM064,Yoh,Kloto,Plateaux,7.455,0.925,450,474,74,BP 387,Rurale,150,Transition
+COM065,Amlamé,Amou,Plateaux,7.5964,0.9649,783,456,62,BP 424,Rurale,165,Plateau/Montagneux
+COM066,Hihéatro,Amou,Plateaux,7.227,1.0165,261,278,277,BP 118,Semi-urbaine,123,Transition
+COM067,Témédja,Amou,Plateaux,7.8,0.8909,345,551,92,BP 486,Rurale,188,Savane
+COM068,Otadi,Amou,Plateaux,6.8628,1.033,554,552,78,BP 359,Rurale,83,Transition
+COM069,Badou,Wawa,Plateaux,7.5835,0.8888,293,401,96,BP 145,Rurale,165,Savane
+COM070,Gbadi-N'Kugna,Wawa,Plateaux,7.6033,1.393,761,551,26,BP 216,Rurale,164,Savane
+COM071,Kessibo,Wawa,Plateaux,7.7905,0.8272,461,259,34,BP 165,Rurale,189,Plateau/Montagneux
+COM072,Okou,Wawa,Plateaux,7.1137,0.9886,266,284,225,BP 443,Semi-urbaine,111,Transition
+COM073,Notsé,Haho,Plateaux,7.1188,0.7905,494,267,124,BP 40,Semi-urbaine,119,Transition
+COM074,Wahala,Haho,Plateaux,7.3876,0.6041,545,434,69,BP 354,Rurale,154,Transition
+COM075,Asrama,Haho,Plateaux,7.4108,1.0955,473,385,24,BP 188,Rurale,142,Transition
+COM076,Kpédomé,Haho,Plateaux,7.3161,0.9934,419,430,52,BP 366,Rurale,133,Transition
+COM077,Ayito,Haho,Plateaux,7.4411,0.8366,475,369,271,BP 455,Semi-urbaine,151,Transition
+COM078,Elavagnon,Est-Mono,Plateaux,7.4461,0.9092,620,311,22,BP 388,Rurale,149,Transition
+COM079,Moretan,Est-Mono,Plateaux,7.8356,1.3492,400,328,42,BP 374,Rurale,189,Plateau/Montagneux
+COM080,Kamina,Est-Mono,Plateaux,7.076,0.8052,342,243,24,BP 74,Rurale,114,Transition
+COM081,Badin,Est-Mono,Plateaux,7.3086,1.4818,511,563,56,BP 475,Rurale,134,Transition
+COM082,Tohoun,Moyen-Mono,Plateaux,7.1026,1.2803,475,322,44,BP 464,Rurale,108,Transition
+COM083,Tado,Moyen-Mono,Plateaux,7.7501,1.0666,574,456,34,BP 288,Rurale,180,Savane
+COM084,Saligbé,Moyen-Mono,Plateaux,7.0986,0.7684,620,333,68,BP 140,Rurale,118,Transition
+COM085,Kpekpleme,Moyen-Mono,Plateaux,7.4401,0.6113,345,242,140,BP 451,Semi-urbaine,159,Transition
+COM086,Danyi-Apéyémé,Danyi,Plateaux,7.4332,1.3638,753,492,71,BP 211,Rurale,145,Transition
+COM087,Danyi-Atigba,Danyi,Plateaux,6.8536,0.9026,678,166,157,BP 90,Semi-urbaine,87,Transition
+COM088,Danyi-Elavagnon,Danyi,Plateaux,7.6925,0.6207,433,547,21,BP 419,Rurale,185,Plateau/Montagneux
+COM089,Agou-Gadzépé,Agou,Plateaux,7.6303,1.1506,310,550,37,BP 133,Rurale,166,Plateau/Montagneux
+COM090,Agou-Nyogbo,Agou,Plateaux,7.3624,1.1512,459,168,295,BP 99,Semi-urbaine,136,Transition
+COM091,Agou-Tavié,Agou,Plateaux,6.8221,1.2077,748,352,42,BP 275,Rurale,76,Transition
+COM092,Agou-Iboé,Agou,Plateaux,7.297,0.7578,231,561,74,BP 436,Rurale,138,Transition
+COM093,Kpele-Adeta,Kpélé,Plateaux,6.9239,0.6783,342,395,70,BP 127,Rurale,105,Transition
+COM094,Kpele-Govié,Kpélé,Plateaux,7.9301,1.3726,614,421,43,BP 125,Rurale,200,Plateau/Montagneux
+COM095,Kpele-Tutunigramé,Kpélé,Plateaux,7.6366,0.7547,478,500,34,BP 130,Rurale,174,Savane
+COM096,Kougnohou,Akébou,Plateaux,7.6294,0.7719,682,346,110,BP 97,Semi-urbaine,173,Plateau/Montagneux
+COM097,Yalla,Akébou,Plateaux,7.3673,1.2169,523,293,59,BP 259,Rurale,137,Transition
+COM098,Djon,Akébou,Plateaux,7.5892,0.618,547,548,20,BP 483,Rurale,174,Plateau/Montagneux
+COM099,Sokodé,Tchaoudjo,Centrale,8.5197,1.2843,255,106,4331,BP 284,Urbaine,265,Plateau/Montagneux
+COM100,Lama-Tessi,Tchaoudjo,Centrale,8.2666,1.3344,249,514,79,BP 90,Rurale,237,Plateau/Montagneux
+COM101,Aleheride,Tchaoudjo,Centrale,8.5145,1.2027,361,205,61,BP 75,Rurale,264,Plateau/Montagneux
+COM102,Kpangalam,Tchaoudjo,Centrale,8.5561,1.2756,348,340,180,BP 358,Semi-urbaine,269,Savane
+COM103,Wassararou,Tchaoudjo,Centrale,8.5364,0.8808,361,378,362,BP 169,Semi-urbaine,269,Plateau/Montagneux
+COM104,Kadambara,Tchaoudjo,Centrale,8.2022,0.9922,291,225,365,BP 239,Semi-urbaine,231,Savane
+COM105,Sotouboua,Sotouboua,Centrale,9.1953,1.3893,256,204,183,BP 96,Semi-urbaine,341,Savane
+COM106,Adjengré,Sotouboua,Centrale,8.9398,1.2981,314,515,28,BP 418,Rurale,312,Savane
+COM107,Tchébébé,Sotouboua,Centrale,8.5231,1.3393,321,353,34,BP 265,Rurale,266,Plateau/Montagneux
+COM108,Aouda,Sotouboua,Centrale,8.4061,1.1782,254,504,87,BP 140,Rurale,252,Savane
+COM109,Fazao,Sotouboua,Centrale,8.3271,0.9017,320,353,48,BP 434,Rurale,246,Savane
+COM110,Titigbé,Sotouboua,Centrale,8.5716,1.1457,306,411,40,BP 180,Rurale,271,Plateau/Montagneux
+COM111,Tchamba,Tchamba,Centrale,8.1485,1.0437,307,373,305,BP 313,Semi-urbaine,224,Plateau/Montagneux
+COM112,Kaboli,Tchamba,Centrale,8.4864,1.3297,349,321,96,BP 365,Rurale,262,Plateau/Montagneux
+COM113,Alibi,Tchamba,Centrale,8.5307,1.3615,347,473,63,BP 442,Rurale,267,Savane
+COM114,Goubi,Tchamba,Centrale,9.1267,1.2106,251,303,172,BP 194,Semi-urbaine,332,Savane
+COM115,Kri-Kri,Tchamba,Centrale,8.839,1.0381,321,298,342,BP 326,Semi-urbaine,301,Savane
+COM116,Blitta-Gare,Blitta,Centrale,8.767,1.1609,211,302,72,BP 376,Rurale,292,Savane
+COM117,Blitta-Village,Blitta,Centrale,8.7354,0.8606,247,462,84,BP 204,Rurale,291,Plateau/Montagneux
+COM118,Pagala,Blitta,Centrale,8.6195,0.8255,339,436,91,BP 352,Rurale,279,Plateau/Montagneux
+COM119,Tintilou,Blitta,Centrale,8.3684,1.3465,221,338,43,BP 76,Rurale,249,Plateau/Montagneux
+COM120,Langabou,Blitta,Centrale,8.5297,1.16,220,281,145,BP 485,Semi-urbaine,266,Plateau/Montagneux
+COM121,Yaloumbé,Blitta,Centrale,9.0301,1.3911,294,351,202,BP 447,Semi-urbaine,322,Savane
+COM122,Djarkpanga,Mo,Centrale,9.1042,1.2667,211,594,46,BP 373,Rurale,330,Savane
+COM123,Tindjassé,Mo,Centrale,8.63,1.3117,385,385,75,BP 278,Rurale,277,Plateau/Montagneux
+COM124,Boulohou,Mo,Centrale,8.418,1.2378,366,231,25,BP 133,Rurale,254,Plateau/Montagneux
+COM125,Kara,Kozah,Kara,9.3424,1.305,532,196,1916,BP 394,Urbaine,357,Savane
+COM126,Lama-Kara,Kozah,Kara,9.8328,1.2148,600,244,32,BP 337,Rurale,411,Savane
+COM127,Landa,Kozah,Kara,9.3065,1.1225,560,407,45,BP 495,Rurale,353,Savane
+COM128,Soumdina,Kozah,Kara,9.5965,1.0711,319,518,77,BP 165,Rurale,385,Savane
+COM129,Pya,Kozah,Kara,9.9258,1.1776,422,202,106,BP 468,Semi-urbaine,421,Savane
+COM130,Tcharè,Kozah,Kara,9.652,1.0982,397,224,42,BP 96,Rurale,391,Savane
+COM131,Lassa,Kozah,Kara,9.941,0.8627,333,510,81,BP 373,Rurale,425,Savane
+COM132,Pagouda,Binah,Kara,9.5536,1.042,422,302,330,BP 455,Semi-urbaine,380,Savane
+COM133,Kétao,Binah,Kara,9.3311,0.7639,403,397,94,BP 89,Rurale,359,Savane
+COM134,Pessoa,Binah,Kara,9.4335,0.7516,511,291,62,BP 303,Rurale,370,Savane
+COM135,Boufalé,Binah,Kara,9.9173,1.1252,456,239,38,BP 107,Rurale,420,Savane
+COM136,Sirka,Binah,Kara,9.7175,0.7314,587,505,26,BP 159,Rurale,402,Savane
+COM137,Niamtougou,Doufelgou,Kara,9.4997,1.209,485,378,210,BP 92,Semi-urbaine,374,Savane
+COM138,Défalé,Doufelgou,Kara,9.5965,1.0334,481,343,80,BP 169,Rurale,385,Savane
+COM139,Pouda,Doufelgou,Kara,9.6184,1.0219,360,225,39,BP 7,Rurale,388,Savane
+COM140,Koka,Doufelgou,Kara,9.9613,1.3593,550,248,354,BP 134,Semi-urbaine,425,Savane
+COM141,Ténèga,Doufelgou,Kara,9.61,1.1495,476,322,282,BP 234,Semi-urbaine,386,Savane
+COM142,Kanté,Kéran,Kara,9.7156,1.216,495,561,72,BP 203,Rurale,398,Savane
+COM143,Ataloté,Kéran,Kara,9.7895,1.2611,317,150,283,BP 443,Semi-urbaine,406,Savane
+COM144,Akpontè,Kéran,Kara,9.5982,0.8637,470,250,64,BP 466,Rurale,387,Savane
+COM145,Bassar,Bassar,Kara,9.4493,1.0403,396,292,49,BP 368,Rurale,369,Savane
+COM146,Kabou,Bassar,Kara,9.45,0.8419,528,171,203,BP 140,Semi-urbaine,371,Savane
+COM147,Bangéli,Bassar,Kara,9.6046,1.1946,561,211,20,BP 20,Rurale,386,Savane
+COM148,Dimori,Bassar,Kara,9.9307,1.3857,370,185,118,BP 236,Semi-urbaine,422,Savane
+COM149,Bitchabé,Bassar,Kara,9.6888,1.0387,443,217,107,BP 196,Semi-urbaine,395,Savane
+COM150,Guérin-Kouka,Dankpen,Kara,9.4174,1.26,460,323,156,BP 144,Semi-urbaine,365,Savane
+COM151,Natchamba,Dankpen,Kara,9.3358,0.927,344,476,41,BP 81,Rurale,357,Savane
+COM152,Nampoch,Dankpen,Kara,9.7471,1.1622,417,425,87,BP 454,Rurale,401,Savane
+COM153,Bafilo,Assoli,Kara,9.7211,0.9228,433,376,59,BP 223,Rurale,400,Savane
+COM154,Bouladè,Assoli,Kara,9.3318,1.044,381,205,122,BP 434,Semi-urbaine,356,Savane
+COM155,Alédjo,Assoli,Kara,9.5172,0.9871,351,312,77,BP 314,Rurale,377,Savane
+COM156,Soudou,Assoli,Kara,9.4143,0.8888,364,599,86,BP 187,Rurale,366,Savane
+COM157,Dapaong,Tône,Savanes,10.2444,0.6929,164,187,3082,BP 32,Urbaine,460,Savane
+COM158,Korbongou,Tône,Savanes,10.269,0.4208,185,418,75,BP 310,Rurale,468,Savane
+COM159,Nioukpourma,Tône,Savanes,10.7029,0.0067,173,375,369,BP 466,Semi-urbaine,525,Savane
+COM160,Pana,Tône,Savanes,10.1416,0.5672,282,543,84,BP 165,Rurale,451,Savane
+COM161,Naki-Ouest,Tône,Savanes,10.5064,0.7815,290,577,53,BP 266,Rurale,488,Savane
+COM162,Poissongui,Tône,Savanes,10.644,0.737,198,571,40,BP 289,Rurale,504,Savane
+COM163,Mango,Oti,Savanes,10.1324,0.399,187,516,36,BP 370,Rurale,453,Savane
+COM164,Gando,Oti,Savanes,10.3931,0.3643,212,592,22,BP 167,Rurale,482,Savane
+COM165,Barkoissi,Oti,Savanes,10.3277,0.7434,208,331,87,BP 161,Rurale,469,Savane
+COM166,Mogou,Oti,Savanes,10.9796,0.2282,269,241,328,BP 39,Semi-urbaine,549,Savane
+COM167,Nali,Oti,Savanes,10.3601,0.4661,186,582,46,BP 148,Rurale,477,Savane
+COM168,Takpamba,Oti-Sud,Savanes,11.0078,0.085,297,258,82,BP 164,Rurale,556,Savane
+COM169,Koumongou,Oti-Sud,Savanes,10.6516,0.5687,236,499,39,BP 62,Rurale,507,Savane
+COM170,Tandjouaré,Tandjouaré,Savanes,11.0323,0.724,213,508,39,BP 356,Rurale,547,Savane
+COM171,Bombouaka,Tandjouaré,Savanes,10.724,0.4623,205,250,85,BP 244,Rurale,517,Savane
+COM172,Bogou,Tandjouaré,Savanes,10.666,0.1359,210,464,84,BP 430,Rurale,517,Savane
+COM173,Mamproug,Tandjouaré,Savanes,10.5375,0.5102,215,422,97,BP 481,Rurale,495,Savane
+COM174,Mandouri,Kpendjal,Savanes,10.6832,0.2079,211,234,325,BP 467,Semi-urbaine,517,Savane
+COM175,Koundjoaré,Kpendjal,Savanes,10.4909,0.2993,221,405,70,BP 431,Rurale,494,Savane
+COM176,Naki-Est,Kpendjal-Ouest,Savanes,10.2433,0.3525,284,368,35,BP 130,Rurale,466,Savane
+COM177,Nayéga,Kpendjal-Ouest,Savanes,10.6374,0.4215,178,520,60,BP 247,Rurale,508,Savane
+COM178,Cinkassé,Cinkassé,Savanes,10.6958,0.2267,206,426,41,BP 471,Rurale,518,Savane
+COM179,Gnoaga,Cinkassé,Savanes,10.3702,0.1801,176,354,275,BP 243,Semi-urbaine,484,Savane
+COM180,Boadé,Cinkassé,Savanes,10.8937,0.3891,182,343,90,BP 104,Rurale,537,Savane
+COM181,Sam-Naba,Cinkassé,Savanes,10.7569,0.3913,222,350,58,BP 387,Rurale,522,Savane
+COM182,Mo Ouest,Mo,Centrale,8.4059,1.1227,230,594,43,BP 59,Rurale,252,Savane
+COM183,Cinkassé Central,Cinkassé,Savanes,10.4917,0.5524,246,579,90,BP 284,Rurale,490,Savane
+COM184,Cinkassé Central,Cinkassé,Savanes,10.7236,0.0145,216,570,58,BP 133,Rurale,527,Savane
+COM185,Kloto Sud,Kloto,Plateaux,7.283,0.8564,718,303,54,BP 421,Rurale,133,Transition
+COM186,Oti Central,Oti,Savanes,10.5239,0.7223,153,204,117,BP 360,Semi-urbaine,491,Savane
+COM187,Doufelgou Central,Doufelgou,Kara,9.586,1.0418,445,489,59,BP 15,Rurale,384,Savane
+COM188,Tchamba Est,Tchamba,Centrale,8.1209,1.1972,213,219,191,BP 359,Semi-urbaine,221,Savane
+COM189,Blitta Nord,Blitta,Centrale,8.761,0.9967,227,359,77,BP 60,Rurale,293,Plateau/Montagneux
+COM190,Zio Nord,Zio,Maritime,6.4361,1.2453,40,207,155,BP 47,Semi-urbaine,33,Côtière
+COM191,Moyen-Mono Central,Moyen-Mono,Plateaux,7.6198,1.2165,782,204,87,BP 435,Rurale,165,Savane
+COM192,Golfe Sud,Golfe,Maritime,6.5376,1.4561,46,563,34,BP 173,Rurale,52,Côtière
+COM193,Amou Ouest,Amou,Plateaux,7.0759,0.7311,218,170,218,BP 136,Semi-urbaine,117,Transition
+COM194,Dankpen Est,Dankpen,Kara,9.431,1.3692,332,388,43,BP 273,Rurale,367,Savane
+COM195,Amou Central,Amou,Plateaux,7.7697,1.1979,283,540,43,BP 325,Rurale,182,Savane
+COM196,Zio Nord,Zio,Maritime,6.4256,1.5068,58,275,332,BP 369,Semi-urbaine,46,Côtière
+COM197,Tandjouaré Central,Tandjouaré,Savanes,10.4127,0.485,154,377,224,BP 86,Semi-urbaine,482,Savane
+COM198,Binah Est,Binah,Kara,9.9073,1.082,566,215,94,BP 232,Rurale,419,Savane
+COM199,Amou Sud,Amou,Plateaux,7.5256,0.679,447,501,29,BP 458,Rurale,165,Savane
+COM200,Sotouboua Central,Sotouboua,Centrale,8.8053,0.9035,396,328,292,BP 239,Semi-urbaine,299,Plateau/Montagneux

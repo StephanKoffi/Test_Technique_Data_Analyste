@@ -1,0 +1,451 @@
+log_id,centre_id,date_operation,type_operation,type_document,nombre_traite,delai_effectif,nombre_rejete,raison_rejet,personnel_present,temps_attente_moyen_minutes,incident_technique,heure_debut,heure_fin
+LOG001,CT015,2023-10-30,Traitement,Carte d'identité,241,41,31,Non éligible,15,58,Non,08:00,16:00
+LOG002,CT026,2023-04-21,Maintenance,N/A,0,0,0,N/A,12,0,Non,09:00,19:00
+LOG003,CT049,2023-08-22,Traitement,Livre de famille,62,19,0,N/A,12,95,Non,08:30,17:30
+LOG004,CT047,2023-07-13,Traitement,Acte de naissance,139,22,12,Double demande,7,54,Non,08:15,16:15
+LOG005,CT008,2023-04-08,Traitement,Passeport,71,35,6,Double demande,13,94,Oui,08:30,17:30
+LOG006,CT052,2023-12-07,Traitement,Certificat de nationalité,20,40,0,N/A,8,95,Non,07:15,15:15
+LOG007,CT027,2023-12-07,Traitement,Certificat de nationalité,82,35,11,Double demande,13,112,Oui,08:45,16:45
+LOG008,CT029,2023-12-05,Inventaire,N/A,0,0,0,N/A,4,0,Non,07:15,15:15
+LOG009,CT029,2023-02-16,Traitement,Carte d'identité,66,16,8,Signature manquante,10,86,Non,08:30,16:30
+LOG010,CT011,2023-09-11,Inventaire,N/A,0,0,0,N/A,2,0,Non,09:30,19:30
+LOG011,CT049,2023-12-28,Traitement,Carte d'identité,31,11,4,Photo non conforme,11,77,Non,09:30,18:30
+LOG012,CT037,2023-09-26,Maintenance,N/A,0,0,0,N/A,7,0,Oui,08:45,16:45
+LOG013,CT019,2023-12-10,Traitement,Certificat de nationalité,56,6,4,Non éligible,6,21,Non,08:45,18:45
+LOG014,CT050,2023-02-28,Traitement,Casier judiciaire,38,34,4,Signature manquante,3,80,Non,09:15,18:15
+LOG015,CT021,2023-09-05,Traitement,Acte de naissance,174,26,17,Erreur acte,15,86,Non,09:45,17:45
+LOG016,CT054,2023-01-26,Traitement,Passeport,73,35,6,Papiers incomplets,5,119,Non,08:00,17:00
+LOG017,CT045,2023-02-18,Traitement,Acte de naissance,90,43,8,Double demande,12,109,Non,07:30,15:30
+LOG018,CT052,2023-08-28,Traitement,Casier judiciaire,282,20,26,Photo non conforme,7,95,Non,08:00,17:00
+LOG019,CT010,2023-09-17,Traitement,Carte d'identité,68,26,1,Signature manquante,4,46,Non,09:15,18:15
+LOG020,CT041,2023-08-20,Traitement,Casier judiciaire,58,16,8,Adresse invalide,9,15,Non,08:45,17:45
+LOG021,CT039,2023-11-11,Traitement,Casier judiciaire,54,25,7,Double demande,15,57,Non,08:45,18:45
+LOG022,CT032,2023-10-06,Traitement,Certificat de nationalité,150,43,17,Non éligible,10,113,Non,08:30,18:30
+LOG023,CT033,2023-02-28,Traitement,Passeport,96,37,5,Non éligible,9,66,Non,07:00,15:00
+LOG024,CT030,2023-03-21,Traitement,Certificat de nationalité,162,21,17,Signature manquante,4,26,Non,08:15,17:15
+LOG025,CT034,2023-11-05,Traitement,Acte de naissance,54,17,0,N/A,6,13,Non,08:00,16:00
+LOG026,CT037,2023-08-22,Traitement,Livre de famille,82,40,6,Papiers incomplets,6,66,Non,09:30,18:30
+LOG027,CT051,2023-04-20,Traitement,Livre de famille,225,5,7,Signature manquante,10,103,Non,07:00,16:00
+LOG028,CT032,2023-05-09,Traitement,Carte d'identité,38,18,0,N/A,11,73,Non,09:00,19:00
+LOG029,CT015,2023-09-04,Traitement,Acte de naissance,224,37,30,Signature manquante,8,83,Non,09:00,18:00
+LOG030,CT020,2023-08-20,Traitement,Carte d'identité,93,39,6,Erreur acte,3,17,Non,07:45,17:45
+LOG031,CT019,2023-10-22,Traitement,Certificat de nationalité,100,24,5,Papiers incomplets,12,116,Non,08:45,18:45
+LOG032,CT022,2023-03-30,Traitement,Livre de famille,90,28,12,Signature manquante,10,58,Non,08:45,17:45
+LOG033,CT026,2023-05-16,Traitement,Carte d'identité,99,41,13,Signature manquante,9,69,Non,07:45,16:45
+LOG034,CT030,2023-08-05,Traitement,Casier judiciaire,128,15,16,Date expiration,8,25,Non,09:45,18:45
+LOG035,CT047,2023-06-29,Traitement,Casier judiciaire,269,42,7,Adresse invalide,3,70,Oui,08:00,18:00
+LOG036,CT018,2023-11-29,Traitement,Certificat de nationalité,195,44,9,Erreur acte,6,21,Non,09:45,18:45
+LOG037,CT043,2023-06-27,Traitement,Casier judiciaire,27,42,3,Adresse invalide,14,15,Non,08:45,16:45
+LOG038,CT018,2023-08-14,Traitement,Livre de famille,100,5,13,Double demande,10,57,Non,07:45,16:45
+LOG039,CT027,2023-06-22,Traitement,Carte d'identité,261,33,35,Non éligible,4,87,Non,09:15,18:15
+LOG040,CT026,2023-09-15,Traitement,Passeport,26,32,3,Signature manquante,13,59,Non,09:00,17:00
+LOG041,CT033,2023-02-18,Traitement,Acte de naissance,32,21,4,Photo non conforme,12,97,Non,08:30,18:30
+LOG042,CT035,2023-12-31,Formation,N/A,0,0,0,N/A,5,0,Non,09:00,17:00
+LOG043,CT051,2023-10-31,Traitement,Casier judiciaire,45,44,6,Non éligible,6,42,Oui,08:45,18:45
+LOG044,CT005,2023-06-26,Traitement,Acte de naissance,88,23,2,Adresse invalide,12,18,Non,08:30,17:30
+LOG045,CT051,2023-12-16,Traitement,Certificat de nationalité,96,6,7,Double demande,5,59,Non,08:00,17:00
+LOG046,CT016,2023-09-14,Traitement,Carte d'identité,35,27,3,Date expiration,6,51,Non,08:00,17:00
+LOG047,CT007,2023-01-12,Inventaire,N/A,0,0,0,N/A,2,0,Non,08:00,17:00
+LOG048,CT038,2023-03-26,Traitement,Livre de famille,53,23,7,Erreur acte,14,106,Non,08:45,18:45
+LOG049,CT035,2023-12-10,Traitement,Passeport,31,33,4,Photo non conforme,3,101,Non,09:00,18:00
+LOG050,CT028,2023-11-20,Traitement,Carte d'identité,229,37,4,Erreur acte,6,12,Non,07:15,16:15
+LOG051,CT024,2023-07-24,Traitement,Carte d'identité,47,39,3,Double demande,11,119,Non,08:15,18:15
+LOG052,CT012,2023-09-25,Formation,N/A,0,0,0,N/A,14,0,Non,07:30,16:30
+LOG053,CT023,2023-06-23,Maintenance,N/A,0,0,0,N/A,6,0,Non,07:30,17:30
+LOG054,CT047,2023-03-06,Traitement,Casier judiciaire,86,45,6,Papiers incomplets,9,51,Non,08:30,17:30
+LOG055,CT024,2023-12-07,Traitement,Casier judiciaire,83,22,3,Erreur acte,3,77,Oui,09:45,17:45
+LOG056,CT023,2023-08-24,Traitement,Livre de famille,178,42,22,Non éligible,10,63,Non,07:30,17:30
+LOG057,CT052,2023-04-17,Traitement,Livre de famille,26,23,3,Signature manquante,14,107,Non,09:45,17:45
+LOG058,CT043,2023-06-21,Traitement,Livre de famille,178,34,2,Date expiration,12,52,Non,08:00,18:00
+LOG059,CT016,2023-03-30,Traitement,Acte de naissance,48,33,6,Erreur acte,2,23,Non,08:30,17:30
+LOG060,CT026,2023-07-31,Traitement,Passeport,83,33,2,Papiers incomplets,13,68,Non,08:15,18:15
+LOG061,CT055,2023-07-06,Traitement,Certificat de nationalité,93,6,13,Double demande,4,69,Non,08:30,17:30
+LOG062,CT049,2023-11-25,Traitement,Acte de naissance,95,30,6,Photo non conforme,7,96,Non,08:45,18:45
+LOG063,CT035,2023-06-07,Maintenance,N/A,0,0,0,N/A,10,0,Non,09:30,17:30
+LOG064,CT051,2023-10-09,Traitement,Casier judiciaire,171,19,23,Adresse invalide,13,98,Non,09:00,19:00
+LOG065,CT047,2023-11-16,Traitement,Passeport,80,44,8,Signature manquante,13,98,Non,09:30,18:30
+LOG066,CT003,2023-10-01,Traitement,Acte de naissance,57,34,5,Papiers incomplets,2,58,Non,09:00,19:00
+LOG067,CT034,2023-12-22,Traitement,Acte de naissance,55,27,1,Signature manquante,14,80,Non,07:00,16:00
+LOG068,CT005,2023-05-25,Traitement,Certificat de nationalité,230,20,27,Non éligible,11,41,Non,07:30,15:30
+LOG069,CT048,2023-02-01,Traitement,Acte de naissance,29,6,1,Non éligible,13,28,Non,09:00,18:00
+LOG070,CT025,2023-01-15,Maintenance,N/A,0,0,0,N/A,3,0,Non,09:00,19:00
+LOG071,CT008,2023-01-19,Formation,N/A,0,0,0,N/A,14,0,Non,07:00,17:00
+LOG072,CT034,2023-01-03,Traitement,Certificat de nationalité,224,37,28,Signature manquante,7,58,Non,07:45,16:45
+LOG073,CT034,2023-03-04,Maintenance,N/A,0,0,0,N/A,9,0,Non,08:15,18:15
+LOG074,CT026,2023-11-27,Inventaire,N/A,0,0,0,N/A,10,0,Non,07:00,17:00
+LOG075,CT040,2023-05-02,Traitement,Livre de famille,115,14,15,Erreur acte,12,67,Non,09:45,18:45
+LOG076,CT036,2023-03-16,Traitement,Passeport,57,25,2,Date expiration,11,43,Non,07:00,15:00
+LOG077,CT015,2023-05-26,Traitement,Acte de naissance,44,11,2,Erreur acte,2,42,Non,09:45,19:45
+LOG078,CT041,2023-11-10,Traitement,Casier judiciaire,239,22,29,Double demande,6,92,Non,09:45,17:45
+LOG079,CT004,2023-08-28,Traitement,Passeport,150,21,19,Date expiration,5,30,Non,09:30,17:30
+LOG080,CT033,2023-04-21,Traitement,Carte d'identité,26,7,0,N/A,4,36,Non,08:30,18:30
+LOG081,CT004,2023-10-27,Traitement,Passeport,296,36,4,Erreur acte,13,74,Oui,09:30,18:30
+LOG082,CT005,2023-03-23,Traitement,Carte d'identité,211,10,3,Signature manquante,7,116,Non,07:30,16:30
+LOG083,CT049,2023-04-02,Formation,N/A,0,0,0,N/A,2,0,Non,09:30,18:30
+LOG084,CT003,2023-05-03,Traitement,Certificat de nationalité,91,33,4,Double demande,9,62,Non,07:45,15:45
+LOG085,CT018,2023-04-30,Formation,N/A,0,0,0,N/A,15,0,Non,08:15,17:15
+LOG086,CT029,2023-10-14,Traitement,Certificat de nationalité,238,37,28,Adresse invalide,6,12,Non,08:00,17:00
+LOG087,CT042,2023-03-10,Traitement,Carte d'identité,70,24,8,Papiers incomplets,8,15,Non,08:00,16:00
+LOG088,CT016,2023-10-28,Traitement,Casier judiciaire,283,6,37,Signature manquante,8,115,Non,09:15,19:15
+LOG089,CT011,2023-07-04,Traitement,Carte d'identité,184,6,14,Non éligible,9,37,Non,09:45,18:45
+LOG090,CT033,2023-09-03,Traitement,Casier judiciaire,57,7,8,Date expiration,9,63,Non,07:00,15:00
+LOG091,CT046,2023-07-12,Traitement,Certificat de nationalité,67,21,3,Signature manquante,4,66,Oui,09:15,17:15
+LOG092,CT015,2023-01-21,Traitement,Passeport,60,12,8,Erreur acte,10,53,Non,08:00,17:00
+LOG093,CT030,2023-08-19,Maintenance,N/A,0,0,0,N/A,13,0,Non,08:45,17:45
+LOG094,CT012,2023-08-02,Traitement,Carte d'identité,50,17,1,Signature manquante,2,46,Non,07:00,16:00
+LOG095,CT034,2023-08-20,Traitement,Acte de naissance,88,5,8,Adresse invalide,15,113,Non,09:00,17:00
+LOG096,CT037,2023-10-07,Traitement,Acte de naissance,28,11,3,Erreur acte,13,22,Non,08:30,17:30
+LOG097,CT028,2023-06-07,Inventaire,N/A,0,0,0,N/A,10,0,Non,08:30,18:30
+LOG098,CT031,2023-05-24,Traitement,Acte de naissance,269,23,16,Adresse invalide,4,45,Non,09:15,18:15
+LOG099,CT045,2023-12-19,Traitement,Certificat de nationalité,261,24,29,Adresse invalide,13,67,Non,07:15,15:15
+LOG100,CT031,2023-12-17,Traitement,Carte d'identité,194,6,10,Signature manquante,9,78,Non,07:00,16:00
+LOG101,CT053,2023-06-21,Traitement,Passeport,87,43,12,Non éligible,3,63,Non,08:45,16:45
+LOG102,CT043,2023-10-07,Traitement,Carte d'identité,295,37,40,Signature manquante,3,20,Non,07:00,17:00
+LOG103,CT026,2023-08-09,Inventaire,N/A,0,0,0,N/A,13,0,Non,09:15,18:15
+LOG104,CT039,2023-03-19,Traitement,Casier judiciaire,34,25,2,Date expiration,6,80,Non,09:00,17:00
+LOG105,CT017,2023-06-15,Inventaire,N/A,0,0,0,N/A,10,0,Non,07:00,17:00
+LOG106,CT002,2023-05-01,Formation,N/A,0,0,0,N/A,15,0,Non,08:15,16:15
+LOG107,CT029,2023-10-06,Traitement,Casier judiciaire,91,31,4,Adresse invalide,7,112,Non,08:30,18:30
+LOG108,CT014,2023-09-16,Traitement,Certificat de nationalité,42,8,0,N/A,12,116,Non,08:30,17:30
+LOG109,CT006,2023-11-25,Inventaire,N/A,0,0,0,N/A,13,0,Non,09:30,19:30
+LOG110,CT053,2023-01-22,Traitement,Certificat de nationalité,42,26,3,Photo non conforme,9,114,Non,09:00,17:00
+LOG111,CT026,2023-03-27,Traitement,Carte d'identité,75,20,4,Non éligible,10,74,Non,07:15,15:15
+LOG112,CT035,2023-12-09,Traitement,Livre de famille,21,20,1,Adresse invalide,12,12,Oui,08:30,16:30
+LOG113,CT047,2023-11-15,Maintenance,N/A,0,0,0,N/A,9,0,Non,07:30,16:30
+LOG114,CT007,2023-12-13,Traitement,Acte de naissance,60,14,4,Non éligible,12,89,Non,07:15,15:15
+LOG115,CT024,2023-02-09,Traitement,Livre de famille,100,11,7,Photo non conforme,9,112,Non,09:45,19:45
+LOG116,CT011,2023-12-25,Traitement,Livre de famille,98,35,11,Signature manquante,13,12,Non,08:45,18:45
+LOG117,CT002,2023-09-11,Traitement,Certificat de nationalité,116,27,4,Signature manquante,8,77,Non,09:30,19:30
+LOG118,CT029,2023-10-04,Traitement,Certificat de nationalité,23,31,2,Adresse invalide,8,87,Non,09:00,17:00
+LOG119,CT055,2023-07-30,Traitement,Passeport,63,13,3,Double demande,7,109,Non,09:00,17:00
+LOG120,CT011,2023-12-03,Traitement,Certificat de nationalité,35,23,2,Photo non conforme,9,13,Non,08:15,16:15
+LOG121,CT004,2023-06-29,Traitement,Passeport,26,30,2,Papiers incomplets,7,88,Non,08:00,18:00
+LOG122,CT016,2023-12-21,Traitement,Acte de naissance,70,44,5,Double demande,6,32,Non,09:00,17:00
+LOG123,CT033,2023-03-20,Traitement,Passeport,40,6,4,Double demande,3,84,Non,08:15,17:15
+LOG124,CT020,2023-11-17,Traitement,Acte de naissance,99,16,9,Papiers incomplets,7,115,Non,08:00,16:00
+LOG125,CT049,2023-03-02,Formation,N/A,0,0,0,N/A,6,0,Non,09:00,17:00
+LOG126,CT033,2023-02-14,Traitement,Carte d'identité,38,39,1,Adresse invalide,4,53,Non,07:15,16:15
+LOG127,CT010,2023-08-16,Formation,N/A,0,0,0,N/A,15,0,Non,07:00,17:00
+LOG128,CT016,2023-10-12,Traitement,Carte d'identité,294,19,15,Erreur acte,14,113,Non,08:45,16:45
+LOG129,CT040,2023-11-08,Traitement,Certificat de nationalité,21,25,2,Photo non conforme,3,72,Non,09:45,19:45
+LOG130,CT034,2023-08-15,Traitement,Acte de naissance,69,34,2,Double demande,2,36,Non,08:30,17:30
+LOG131,CT008,2023-09-01,Traitement,Livre de famille,62,28,5,Adresse invalide,13,109,Non,07:30,17:30
+LOG132,CT039,2023-10-29,Traitement,Casier judiciaire,70,36,10,Double demande,13,31,Non,08:00,16:00
+LOG133,CT031,2023-11-25,Traitement,Casier judiciaire,91,38,9,Non éligible,5,32,Non,07:45,17:45
+LOG134,CT005,2023-11-19,Traitement,Certificat de nationalité,37,18,0,N/A,2,18,Non,07:15,15:15
+LOG135,CT016,2023-02-24,Traitement,Certificat de nationalité,90,30,2,Non éligible,6,40,Non,08:30,18:30
+LOG136,CT004,2023-10-26,Traitement,Acte de naissance,97,25,6,Papiers incomplets,8,31,Non,07:15,17:15
+LOG137,CT042,2023-06-24,Traitement,Certificat de nationalité,85,45,11,Papiers incomplets,4,86,Non,08:30,18:30
+LOG138,CT034,2023-09-13,Traitement,Acte de naissance,53,17,5,Double demande,4,97,Non,07:45,17:45
+LOG139,CT031,2023-08-09,Traitement,Certificat de nationalité,60,27,1,Erreur acte,8,54,Non,09:00,18:00
+LOG140,CT003,2023-08-10,Traitement,Carte d'identité,85,32,9,Date expiration,8,70,Non,07:30,17:30
+LOG141,CT034,2023-08-13,Traitement,Livre de famille,287,27,5,Double demande,6,41,Non,08:00,18:00
+LOG142,CT016,2023-05-28,Traitement,Certificat de nationalité,65,35,9,Date expiration,3,71,Non,09:00,17:00
+LOG143,CT023,2023-09-15,Maintenance,N/A,0,0,0,N/A,8,0,Non,09:30,19:30
+LOG144,CT029,2023-05-05,Traitement,Casier judiciaire,75,13,8,Erreur acte,13,22,Oui,09:30,18:30
+LOG145,CT049,2023-01-11,Traitement,Passeport,45,20,4,Photo non conforme,11,67,Non,08:45,16:45
+LOG146,CT026,2023-09-16,Traitement,Certificat de nationalité,63,20,2,Photo non conforme,13,73,Oui,08:15,18:15
+LOG147,CT032,2023-06-23,Inventaire,N/A,0,0,0,N/A,5,0,Non,09:00,19:00
+LOG148,CT041,2023-12-25,Traitement,Carte d'identité,42,27,4,Erreur acte,11,87,Non,08:15,18:15
+LOG149,CT042,2023-09-24,Traitement,Livre de famille,74,40,4,Photo non conforme,5,47,Non,09:45,19:45
+LOG150,CT042,2023-02-25,Traitement,Livre de famille,72,14,1,Adresse invalide,9,19,Non,07:30,15:30
+LOG151,CT018,2023-12-31,Traitement,Casier judiciaire,258,31,4,Erreur acte,2,74,Non,08:00,18:00
+LOG152,CT018,2023-07-27,Maintenance,N/A,0,0,0,N/A,9,0,Non,08:00,16:00
+LOG153,CT015,2023-09-05,Traitement,Casier judiciaire,253,36,10,Adresse invalide,14,86,Non,07:15,17:15
+LOG154,CT020,2023-08-15,Traitement,Certificat de nationalité,259,26,5,Double demande,8,22,Non,07:45,16:45
+LOG155,CT021,2023-03-12,Traitement,Carte d'identité,271,22,3,Double demande,7,31,Non,09:45,19:45
+LOG156,CT019,2023-02-17,Traitement,Acte de naissance,68,36,7,Date expiration,2,70,Non,08:15,16:15
+LOG157,CT001,2023-08-21,Traitement,Passeport,106,43,14,Photo non conforme,11,28,Non,07:30,16:30
+LOG158,CT007,2023-09-24,Traitement,Acte de naissance,162,32,12,Signature manquante,4,112,Non,07:30,16:30
+LOG159,CT026,2023-02-24,Traitement,Casier judiciaire,39,9,0,N/A,11,66,Non,09:15,18:15
+LOG160,CT018,2023-04-20,Traitement,Acte de naissance,57,7,0,N/A,2,111,Oui,09:00,17:00
+LOG161,CT023,2023-10-12,Traitement,Acte de naissance,39,26,0,N/A,2,76,Non,08:45,17:45
+LOG162,CT042,2023-11-07,Traitement,Passeport,259,14,37,Double demande,10,59,Non,08:30,18:30
+LOG163,CT007,2023-05-26,Traitement,Casier judiciaire,224,37,5,Signature manquante,4,110,Non,09:45,18:45
+LOG164,CT027,2023-07-10,Traitement,Acte de naissance,90,22,11,Double demande,11,86,Non,07:45,17:45
+LOG165,CT047,2023-07-09,Formation,N/A,0,0,0,N/A,3,0,Non,07:45,16:45
+LOG166,CT014,2023-05-06,Traitement,Livre de famille,76,14,5,Non éligible,2,21,Non,09:30,18:30
+LOG167,CT026,2023-05-27,Traitement,Acte de naissance,41,17,3,Date expiration,10,91,Non,07:45,17:45
+LOG168,CT014,2023-09-23,Traitement,Carte d'identité,34,8,1,Erreur acte,11,28,Non,08:30,17:30
+LOG169,CT009,2023-03-03,Traitement,Casier judiciaire,211,20,29,Adresse invalide,8,97,Non,09:00,19:00
+LOG170,CT006,2023-08-13,Traitement,Acte de naissance,98,12,12,Photo non conforme,11,20,Non,07:30,16:30
+LOG171,CT001,2023-01-21,Traitement,Carte d'identité,36,6,3,Papiers incomplets,10,12,Non,09:30,18:30
+LOG172,CT038,2023-06-04,Inventaire,N/A,0,0,0,N/A,3,0,Non,07:00,15:00
+LOG173,CT020,2023-10-13,Traitement,Certificat de nationalité,66,37,2,Non éligible,8,13,Non,07:45,15:45
+LOG174,CT016,2023-10-28,Traitement,Passeport,269,12,8,Double demande,8,70,Non,09:30,18:30
+LOG175,CT009,2023-08-20,Traitement,Certificat de nationalité,25,43,2,Signature manquante,8,58,Oui,08:15,17:15
+LOG176,CT024,2023-11-30,Traitement,Casier judiciaire,41,45,3,Double demande,7,83,Non,09:45,17:45
+LOG177,CT035,2023-09-24,Traitement,Casier judiciaire,71,43,6,Adresse invalide,5,54,Oui,09:15,17:15
+LOG178,CT009,2023-09-10,Traitement,Livre de famille,126,26,4,Date expiration,7,110,Non,09:45,17:45
+LOG179,CT046,2023-02-27,Formation,N/A,0,0,0,N/A,3,0,Non,09:45,17:45
+LOG180,CT032,2023-06-25,Traitement,Casier judiciaire,92,15,0,N/A,7,25,Non,09:30,19:30
+LOG181,CT019,2023-03-07,Inventaire,N/A,0,0,0,N/A,6,0,Non,08:15,18:15
+LOG182,CT012,2023-03-18,Traitement,Livre de famille,213,33,6,Adresse invalide,5,85,Non,08:45,16:45
+LOG183,CT023,2023-02-14,Inventaire,N/A,0,0,0,N/A,14,0,Non,09:00,18:00
+LOG184,CT039,2023-03-30,Traitement,Certificat de nationalité,222,40,24,Non éligible,4,35,Non,07:00,17:00
+LOG185,CT010,2023-10-21,Traitement,Livre de famille,68,24,10,Date expiration,8,42,Non,09:45,17:45
+LOG186,CT043,2023-09-06,Traitement,Carte d'identité,78,35,8,Non éligible,7,21,Non,09:30,19:30
+LOG187,CT010,2023-11-28,Traitement,Livre de famille,59,6,6,Adresse invalide,9,18,Non,08:15,16:15
+LOG188,CT037,2023-04-28,Traitement,Carte d'identité,67,31,8,Signature manquante,2,63,Non,07:00,15:00
+LOG189,CT049,2023-09-29,Formation,N/A,0,0,0,N/A,2,0,Non,08:15,17:15
+LOG190,CT051,2023-06-08,Formation,N/A,0,0,0,N/A,2,0,Non,08:15,18:15
+LOG191,CT029,2023-06-02,Inventaire,N/A,0,0,0,N/A,11,0,Non,07:45,17:45
+LOG192,CT052,2023-09-10,Traitement,Livre de famille,108,10,7,Signature manquante,14,34,Non,07:00,15:00
+LOG193,CT035,2023-03-25,Traitement,Livre de famille,21,34,2,Erreur acte,3,27,Non,09:15,18:15
+LOG194,CT013,2023-09-13,Traitement,Passeport,170,35,16,Date expiration,7,41,Non,07:45,15:45
+LOG195,CT027,2023-07-10,Traitement,Casier judiciaire,66,14,2,Photo non conforme,10,87,Non,07:30,17:30
+LOG196,CT035,2023-09-20,Traitement,Passeport,80,38,7,Non éligible,6,17,Non,09:15,19:15
+LOG197,CT048,2023-07-29,Inventaire,N/A,0,0,0,N/A,9,0,Oui,09:15,17:15
+LOG198,CT044,2023-02-26,Traitement,Carte d'identité,206,27,4,Double demande,2,89,Non,07:30,16:30
+LOG199,CT025,2023-12-07,Traitement,Livre de famille,41,35,2,Photo non conforme,2,77,Non,08:00,18:00
+LOG200,CT028,2023-03-27,Maintenance,N/A,0,0,0,N/A,14,0,Non,08:00,17:00
+LOG201,CT013,2023-07-08,Maintenance,N/A,0,0,0,N/A,2,0,Non,08:15,16:15
+LOG202,CT006,2023-06-25,Maintenance,N/A,0,0,0,N/A,3,0,Non,07:30,16:30
+LOG203,CT045,2023-09-22,Traitement,Certificat de nationalité,88,15,1,Double demande,6,14,Non,09:30,18:30
+LOG204,CT020,2023-05-17,Traitement,Acte de naissance,22,14,3,Non éligible,7,36,Non,07:00,17:00
+LOG205,CT031,2023-12-03,Traitement,Livre de famille,55,35,7,Non éligible,4,83,Non,08:30,16:30
+LOG206,CT036,2023-02-09,Inventaire,N/A,0,0,0,N/A,2,0,Non,09:45,18:45
+LOG207,CT023,2023-10-13,Traitement,Acte de naissance,47,40,5,Non éligible,4,107,Non,09:15,18:15
+LOG208,CT021,2023-02-11,Traitement,Certificat de nationalité,138,7,4,Signature manquante,5,44,Non,07:45,17:45
+LOG209,CT019,2023-08-27,Traitement,Passeport,57,7,6,Date expiration,8,106,Non,09:00,17:00
+LOG210,CT050,2023-02-26,Traitement,Certificat de nationalité,33,7,4,Double demande,15,54,Non,09:45,18:45
+LOG211,CT034,2023-07-18,Traitement,Carte d'identité,216,37,28,Date expiration,14,94,Non,09:30,19:30
+LOG212,CT006,2023-03-23,Traitement,Casier judiciaire,51,39,2,Non éligible,13,104,Oui,07:30,17:30
+LOG213,CT041,2023-10-30,Traitement,Livre de famille,48,17,2,Photo non conforme,12,37,Non,08:45,17:45
+LOG214,CT012,2023-03-21,Traitement,Certificat de nationalité,47,10,2,Date expiration,7,96,Non,08:00,16:00
+LOG215,CT022,2023-01-25,Traitement,Certificat de nationalité,60,12,6,Signature manquante,3,106,Non,08:15,16:15
+LOG216,CT023,2023-11-16,Traitement,Certificat de nationalité,88,38,11,Signature manquante,6,31,Non,08:30,16:30
+LOG217,CT026,2023-02-12,Traitement,Livre de famille,38,14,4,Photo non conforme,9,28,Oui,09:45,19:45
+LOG218,CT024,2023-08-13,Traitement,Passeport,21,21,2,Photo non conforme,12,91,Non,07:45,17:45
+LOG219,CT019,2023-01-30,Traitement,Certificat de nationalité,274,28,39,Erreur acte,7,102,Non,07:30,16:30
+LOG220,CT037,2023-03-09,Traitement,Livre de famille,287,17,3,Double demande,11,18,Non,08:45,16:45
+LOG221,CT039,2023-10-15,Traitement,Passeport,26,6,2,Signature manquante,14,36,Non,08:45,16:45
+LOG222,CT043,2023-08-16,Maintenance,N/A,0,0,0,N/A,14,0,Non,08:15,17:15
+LOG223,CT036,2023-04-15,Traitement,Carte d'identité,32,18,3,Double demande,11,67,Non,09:30,18:30
+LOG224,CT006,2023-02-06,Traitement,Acte de naissance,87,41,1,Non éligible,13,32,Non,09:30,17:30
+LOG225,CT022,2023-05-07,Traitement,Acte de naissance,163,18,20,Papiers incomplets,4,10,Non,09:45,18:45
+LOG226,CT043,2023-06-26,Traitement,Acte de naissance,149,7,9,Erreur acte,4,65,Non,07:15,15:15
+LOG227,CT019,2023-09-16,Traitement,Passeport,88,11,4,Signature manquante,14,81,Non,08:30,17:30
+LOG228,CT042,2023-03-04,Inventaire,N/A,0,0,0,N/A,15,0,Non,09:30,19:30
+LOG229,CT012,2023-09-18,Traitement,Acte de naissance,100,31,4,Adresse invalide,8,24,Non,07:15,17:15
+LOG230,CT002,2023-09-23,Traitement,Passeport,72,16,10,Date expiration,6,51,Non,09:15,17:15
+LOG231,CT053,2023-12-29,Traitement,Passeport,83,34,10,Date expiration,14,111,Non,07:45,17:45
+LOG232,CT027,2023-11-27,Maintenance,N/A,0,0,0,N/A,3,0,Non,09:30,17:30
+LOG233,CT008,2023-03-30,Traitement,Casier judiciaire,33,40,2,Papiers incomplets,11,21,Non,09:45,18:45
+LOG234,CT027,2023-01-31,Traitement,Certificat de nationalité,54,30,6,Date expiration,12,96,Oui,09:15,17:15
+LOG235,CT003,2023-07-25,Formation,N/A,0,0,0,N/A,9,0,Non,07:30,17:30
+LOG236,CT028,2023-12-12,Traitement,Acte de naissance,187,36,20,Non éligible,15,93,Non,09:00,18:00
+LOG237,CT038,2023-04-11,Traitement,Certificat de nationalité,173,5,18,Signature manquante,5,109,Oui,07:00,15:00
+LOG238,CT012,2023-06-18,Traitement,Casier judiciaire,44,20,1,Adresse invalide,5,111,Non,09:30,18:30
+LOG239,CT046,2023-04-27,Traitement,Certificat de nationalité,240,11,13,Double demande,2,62,Non,07:30,16:30
+LOG240,CT011,2023-12-15,Traitement,Casier judiciaire,60,23,8,Signature manquante,15,21,Oui,08:00,18:00
+LOG241,CT016,2023-05-23,Traitement,Livre de famille,66,41,4,Papiers incomplets,12,89,Non,09:15,18:15
+LOG242,CT043,2023-07-06,Traitement,Casier judiciaire,90,36,10,Double demande,15,102,Non,07:45,15:45
+LOG243,CT015,2023-11-16,Traitement,Acte de naissance,68,19,8,Papiers incomplets,5,77,Non,09:15,19:15
+LOG244,CT049,2023-01-30,Traitement,Livre de famille,62,6,8,Papiers incomplets,5,56,Oui,09:30,19:30
+LOG245,CT043,2023-05-23,Maintenance,N/A,0,0,0,N/A,2,0,Non,09:00,18:00
+LOG246,CT039,2023-04-22,Traitement,Certificat de nationalité,55,6,0,N/A,7,112,Non,08:00,17:00
+LOG247,CT049,2023-08-14,Traitement,Casier judiciaire,41,17,4,Date expiration,13,15,Non,07:00,15:00
+LOG248,CT042,2023-06-24,Traitement,Passeport,26,7,2,Papiers incomplets,3,66,Non,09:00,18:00
+LOG249,CT012,2023-06-10,Traitement,Acte de naissance,80,10,1,Papiers incomplets,5,97,Non,07:15,17:15
+LOG250,CT001,2023-12-01,Maintenance,N/A,0,0,0,N/A,11,0,Non,07:00,17:00
+LOG251,CT019,2023-10-16,Traitement,Passeport,52,25,3,Adresse invalide,2,94,Non,07:15,17:15
+LOG252,CT043,2023-04-09,Traitement,Acte de naissance,36,12,2,Non éligible,14,56,Non,09:30,18:30
+LOG253,CT023,2023-10-20,Traitement,Livre de famille,174,18,8,Double demande,11,45,Non,09:15,17:15
+LOG254,CT044,2023-12-21,Traitement,Certificat de nationalité,85,32,2,Adresse invalide,8,23,Non,08:30,18:30
+LOG255,CT038,2023-05-24,Traitement,Acte de naissance,285,22,16,Photo non conforme,13,92,Non,07:15,15:15
+LOG256,CT047,2023-04-12,Formation,N/A,0,0,0,N/A,11,0,Non,09:15,18:15
+LOG257,CT006,2023-03-16,Traitement,Passeport,135,11,6,Photo non conforme,14,89,Non,08:00,17:00
+LOG258,CT027,2023-12-23,Traitement,Carte d'identité,33,18,0,N/A,9,79,Oui,09:15,18:15
+LOG259,CT016,2023-09-24,Traitement,Casier judiciaire,69,28,1,Double demande,7,89,Non,09:00,19:00
+LOG260,CT024,2023-10-10,Formation,N/A,0,0,0,N/A,13,0,Oui,07:30,17:30
+LOG261,CT042,2023-10-17,Traitement,Passeport,288,11,41,Date expiration,4,19,Oui,09:15,18:15
+LOG262,CT041,2023-01-15,Traitement,Acte de naissance,297,26,43,Adresse invalide,3,38,Non,08:30,17:30
+LOG263,CT033,2023-12-23,Traitement,Livre de famille,54,35,1,Non éligible,12,56,Non,07:00,15:00
+LOG264,CT002,2023-06-02,Traitement,Acte de naissance,122,41,14,Photo non conforme,4,91,Non,07:15,16:15
+LOG265,CT028,2023-12-21,Traitement,Livre de famille,20,11,0,N/A,9,103,Non,07:45,15:45
+LOG266,CT051,2023-12-29,Traitement,Livre de famille,187,12,26,Date expiration,2,39,Non,09:30,19:30
+LOG267,CT007,2023-10-07,Traitement,Passeport,265,26,25,Papiers incomplets,9,10,Non,09:45,18:45
+LOG268,CT011,2023-12-19,Traitement,Acte de naissance,54,33,2,Papiers incomplets,5,39,Non,08:45,18:45
+LOG269,CT025,2023-07-03,Traitement,Casier judiciaire,87,43,1,Signature manquante,6,39,Non,09:00,19:00
+LOG270,CT045,2023-05-29,Traitement,Carte d'identité,72,8,7,Papiers incomplets,7,80,Non,09:30,17:30
+LOG271,CT006,2023-08-14,Traitement,Carte d'identité,22,10,3,Papiers incomplets,14,59,Non,08:15,18:15
+LOG272,CT027,2023-08-12,Traitement,Acte de naissance,82,23,5,Non éligible,2,44,Non,09:45,18:45
+LOG273,CT039,2023-02-27,Maintenance,N/A,0,0,0,N/A,14,0,Non,08:30,16:30
+LOG274,CT024,2023-12-07,Traitement,Certificat de nationalité,24,17,1,Adresse invalide,12,81,Non,08:00,17:00
+LOG275,CT045,2023-07-17,Traitement,Certificat de nationalité,60,39,3,Double demande,2,78,Non,07:00,16:00
+LOG276,CT015,2023-12-16,Formation,N/A,0,0,0,N/A,8,0,Non,07:30,16:30
+LOG277,CT048,2023-02-07,Traitement,Casier judiciaire,20,42,0,N/A,8,32,Non,07:15,17:15
+LOG278,CT005,2023-11-19,Traitement,Carte d'identité,53,39,7,Papiers incomplets,4,46,Non,07:15,16:15
+LOG279,CT030,2023-07-20,Traitement,Acte de naissance,59,10,6,Photo non conforme,8,86,Non,08:00,17:00
+LOG280,CT010,2023-07-20,Traitement,Certificat de nationalité,78,12,9,Date expiration,11,59,Non,08:00,16:00
+LOG281,CT028,2023-06-30,Traitement,Passeport,133,39,14,Non éligible,9,51,Non,08:15,16:15
+LOG282,CT053,2023-11-18,Traitement,Passeport,66,26,9,Photo non conforme,7,37,Non,08:45,16:45
+LOG283,CT044,2023-04-02,Traitement,Acte de naissance,85,23,0,N/A,4,91,Non,09:45,17:45
+LOG284,CT044,2023-10-17,Traitement,Certificat de nationalité,148,23,13,Non éligible,10,47,Non,07:15,16:15
+LOG285,CT025,2023-06-15,Maintenance,N/A,0,0,0,N/A,10,0,Oui,07:00,16:00
+LOG286,CT043,2023-01-10,Traitement,Livre de famille,123,37,10,Signature manquante,3,27,Non,07:45,17:45
+LOG287,CT021,2023-06-24,Traitement,Passeport,45,27,3,Adresse invalide,15,111,Non,07:00,15:00
+LOG288,CT018,2023-08-10,Traitement,Passeport,243,33,15,Non éligible,4,93,Non,07:45,15:45
+LOG289,CT005,2023-02-24,Traitement,Livre de famille,29,25,0,N/A,8,111,Non,09:15,18:15
+LOG290,CT031,2023-04-24,Traitement,Acte de naissance,98,29,10,Double demande,9,27,Non,07:45,15:45
+LOG291,CT022,2023-03-27,Traitement,Acte de naissance,39,19,0,N/A,14,93,Non,08:15,17:15
+LOG292,CT037,2023-05-19,Traitement,Carte d'identité,71,44,5,Erreur acte,8,47,Non,08:30,16:30
+LOG293,CT047,2023-11-19,Traitement,Passeport,75,21,4,Date expiration,15,118,Non,08:30,17:30
+LOG294,CT006,2023-03-23,Traitement,Passeport,97,31,10,Adresse invalide,13,99,Non,07:00,15:00
+LOG295,CT017,2023-12-18,Traitement,Casier judiciaire,113,32,6,Date expiration,15,87,Non,08:45,16:45
+LOG296,CT048,2023-03-06,Traitement,Casier judiciaire,82,18,0,N/A,4,69,Non,08:45,18:45
+LOG297,CT001,2023-02-23,Traitement,Certificat de nationalité,248,12,10,Adresse invalide,2,55,Oui,07:45,17:45
+LOG298,CT007,2023-08-26,Traitement,Acte de naissance,98,33,1,Signature manquante,10,110,Non,09:00,17:00
+LOG299,CT004,2023-07-25,Traitement,Carte d'identité,89,10,9,Adresse invalide,8,105,Non,07:30,17:30
+LOG300,CT044,2023-04-30,Traitement,Casier judiciaire,130,10,14,Date expiration,11,11,Non,08:30,17:30
+LOG301,CT010,2023-08-30,Traitement,Passeport,49,40,1,Non éligible,4,46,Non,07:15,17:15
+LOG302,CT004,2023-06-01,Traitement,Carte d'identité,22,40,2,Adresse invalide,14,78,Non,08:15,16:15
+LOG303,CT033,2023-11-15,Traitement,Certificat de nationalité,34,8,3,Date expiration,14,12,Non,09:30,17:30
+LOG304,CT037,2023-12-09,Traitement,Livre de famille,151,32,18,Adresse invalide,7,43,Non,09:00,17:00
+LOG305,CT032,2023-03-15,Traitement,Passeport,58,30,1,Non éligible,2,118,Oui,07:30,16:30
+LOG306,CT007,2023-06-21,Traitement,Acte de naissance,28,22,0,N/A,4,73,Non,08:15,18:15
+LOG307,CT013,2023-12-23,Traitement,Livre de famille,286,34,28,Photo non conforme,11,58,Non,09:15,19:15
+LOG308,CT045,2023-05-07,Traitement,Acte de naissance,20,8,1,Double demande,4,48,Non,09:45,18:45
+LOG309,CT045,2023-03-19,Traitement,Livre de famille,88,27,6,Adresse invalide,11,92,Non,09:45,18:45
+LOG310,CT041,2023-12-14,Traitement,Livre de famille,39,7,1,Double demande,9,45,Oui,08:00,18:00
+LOG311,CT032,2023-06-12,Maintenance,N/A,0,0,0,N/A,2,0,Non,07:00,15:00
+LOG312,CT029,2023-05-17,Inventaire,N/A,0,0,0,N/A,5,0,Non,07:15,16:15
+LOG313,CT040,2023-10-09,Traitement,Certificat de nationalité,41,23,5,Photo non conforme,3,58,Non,07:00,15:00
+LOG314,CT010,2023-05-04,Traitement,Passeport,242,43,32,Adresse invalide,12,105,Non,07:15,15:15
+LOG315,CT026,2023-02-05,Traitement,Certificat de nationalité,220,34,13,Photo non conforme,6,17,Non,08:30,18:30
+LOG316,CT025,2023-04-19,Traitement,Casier judiciaire,165,29,7,Papiers incomplets,15,85,Non,08:15,18:15
+LOG317,CT021,2023-10-09,Traitement,Casier judiciaire,84,40,5,Erreur acte,11,99,Non,07:30,16:30
+LOG318,CT015,2023-02-10,Traitement,Casier judiciaire,88,22,5,Erreur acte,9,101,Non,09:15,19:15
+LOG319,CT032,2023-11-24,Traitement,Passeport,109,13,13,Double demande,9,49,Non,09:45,19:45
+LOG320,CT030,2023-10-07,Traitement,Certificat de nationalité,45,39,3,Adresse invalide,10,105,Non,07:30,16:30
+LOG321,CT033,2023-02-28,Maintenance,N/A,0,0,0,N/A,7,0,Non,08:00,17:00
+LOG322,CT034,2023-10-26,Traitement,Carte d'identité,44,6,1,Date expiration,6,70,Non,09:15,17:15
+LOG323,CT008,2023-08-30,Traitement,Certificat de nationalité,161,23,3,Adresse invalide,4,32,Non,09:30,17:30
+LOG324,CT027,2023-05-05,Traitement,Certificat de nationalité,100,21,1,Date expiration,4,109,Non,09:00,18:00
+LOG325,CT031,2023-11-03,Traitement,Casier judiciaire,138,42,18,Erreur acte,9,92,Non,09:45,19:45
+LOG326,CT035,2023-10-26,Formation,N/A,0,0,0,N/A,13,0,Non,09:45,18:45
+LOG327,CT009,2023-02-24,Traitement,Carte d'identité,36,22,4,Papiers incomplets,15,120,Non,09:15,18:15
+LOG328,CT015,2023-05-15,Formation,N/A,0,0,0,N/A,8,0,Oui,09:30,18:30
+LOG329,CT014,2023-02-01,Traitement,Acte de naissance,64,16,1,Date expiration,11,13,Non,08:45,17:45
+LOG330,CT017,2023-09-17,Traitement,Passeport,69,28,2,Date expiration,8,104,Non,08:15,16:15
+LOG331,CT055,2023-05-05,Maintenance,N/A,0,0,0,N/A,9,0,Non,09:30,19:30
+LOG332,CT035,2023-05-14,Traitement,Certificat de nationalité,91,40,7,Non éligible,7,37,Non,08:45,18:45
+LOG333,CT010,2023-11-30,Traitement,Acte de naissance,45,34,1,Non éligible,2,45,Non,08:30,17:30
+LOG334,CT015,2023-11-21,Traitement,Casier judiciaire,91,27,11,Adresse invalide,2,77,Non,07:00,17:00
+LOG335,CT007,2023-01-20,Traitement,Certificat de nationalité,96,15,9,Double demande,8,32,Non,07:30,15:30
+LOG336,CT012,2023-01-29,Traitement,Passeport,53,18,4,Non éligible,3,109,Non,09:30,19:30
+LOG337,CT004,2023-12-12,Traitement,Acte de naissance,151,42,20,Papiers incomplets,9,17,Oui,09:00,18:00
+LOG338,CT042,2023-03-15,Traitement,Passeport,66,6,2,Double demande,5,23,Oui,07:15,16:15
+LOG339,CT026,2023-01-08,Traitement,Casier judiciaire,272,43,8,Adresse invalide,5,92,Non,09:15,18:15
+LOG340,CT035,2023-12-02,Traitement,Livre de famille,86,5,8,Adresse invalide,3,18,Non,08:15,18:15
+LOG341,CT010,2023-11-16,Traitement,Casier judiciaire,36,10,3,Double demande,2,46,Oui,08:45,18:45
+LOG342,CT051,2023-08-23,Traitement,Livre de famille,86,43,5,Erreur acte,4,82,Oui,08:30,17:30
+LOG343,CT006,2023-10-14,Traitement,Certificat de nationalité,32,13,1,Photo non conforme,11,31,Non,09:00,17:00
+LOG344,CT030,2023-06-08,Traitement,Livre de famille,96,28,8,Erreur acte,11,44,Oui,07:45,16:45
+LOG345,CT001,2023-08-20,Traitement,Casier judiciaire,83,20,9,Double demande,3,109,Non,07:30,17:30
+LOG346,CT019,2023-06-05,Traitement,Acte de naissance,20,19,1,Date expiration,3,33,Non,07:00,16:00
+LOG347,CT026,2023-10-11,Traitement,Carte d'identité,73,42,5,Date expiration,13,35,Non,09:45,19:45
+LOG348,CT051,2023-02-08,Traitement,Acte de naissance,20,44,1,Signature manquante,3,95,Non,07:45,17:45
+LOG349,CT007,2023-08-14,Traitement,Casier judiciaire,37,31,3,Signature manquante,12,43,Non,09:45,17:45
+LOG350,CT009,2023-03-05,Traitement,Casier judiciaire,96,29,11,Photo non conforme,4,43,Non,07:00,17:00
+LOG351,CT043,2023-10-08,Traitement,Casier judiciaire,94,38,5,Signature manquante,3,54,Non,09:15,17:15
+LOG352,CT004,2023-12-16,Traitement,Passeport,107,40,13,Photo non conforme,12,79,Non,08:15,16:15
+LOG353,CT035,2023-05-31,Traitement,Passeport,45,35,5,Photo non conforme,13,13,Non,07:45,17:45
+LOG354,CT048,2023-03-22,Traitement,Certificat de nationalité,67,44,6,Signature manquante,9,69,Non,09:15,17:15
+LOG355,CT042,2023-01-26,Traitement,Certificat de nationalité,82,40,6,Adresse invalide,11,90,Non,09:30,19:30
+LOG356,CT026,2023-01-18,Traitement,Carte d'identité,56,26,7,Papiers incomplets,14,36,Non,08:45,17:45
+LOG357,CT047,2023-04-11,Traitement,Livre de famille,85,28,8,Erreur acte,7,17,Non,08:30,18:30
+LOG358,CT001,2023-06-15,Traitement,Livre de famille,75,37,2,Signature manquante,10,88,Non,09:15,17:15
+LOG359,CT029,2023-10-05,Traitement,Acte de naissance,70,12,9,Papiers incomplets,14,50,Non,08:45,17:45
+LOG360,CT005,2023-06-05,Traitement,Certificat de nationalité,51,5,5,Date expiration,13,17,Non,08:15,17:15
+LOG361,CT006,2023-10-13,Inventaire,N/A,0,0,0,N/A,11,0,Non,09:30,19:30
+LOG362,CT029,2023-08-26,Formation,N/A,0,0,0,N/A,4,0,Non,09:15,19:15
+LOG363,CT011,2023-07-15,Traitement,Passeport,296,7,3,Papiers incomplets,2,14,Non,09:30,18:30
+LOG364,CT009,2023-01-28,Traitement,Carte d'identité,46,32,5,Signature manquante,2,103,Non,09:00,19:00
+LOG365,CT005,2023-07-01,Traitement,Certificat de nationalité,231,18,29,Photo non conforme,10,115,Oui,09:00,19:00
+LOG366,CT030,2023-04-03,Maintenance,N/A,0,0,0,N/A,13,0,Non,07:00,16:00
+LOG367,CT014,2023-02-25,Traitement,Certificat de nationalité,64,9,3,Photo non conforme,13,24,Non,07:15,16:15
+LOG368,CT038,2023-01-22,Traitement,Livre de famille,53,18,5,Date expiration,14,54,Non,09:30,19:30
+LOG369,CT036,2023-06-24,Traitement,Casier judiciaire,209,18,29,Photo non conforme,12,35,Non,08:00,16:00
+LOG370,CT003,2023-01-19,Traitement,Casier judiciaire,236,9,3,Papiers incomplets,9,15,Non,08:45,17:45
+LOG371,CT025,2023-05-20,Traitement,Livre de famille,145,38,10,Date expiration,3,65,Non,09:00,19:00
+LOG372,CT028,2023-02-17,Traitement,Acte de naissance,100,13,14,Photo non conforme,7,25,Non,09:00,17:00
+LOG373,CT025,2023-05-07,Formation,N/A,0,0,0,N/A,7,0,Non,07:00,17:00
+LOG374,CT012,2023-11-23,Traitement,Carte d'identité,55,9,6,Adresse invalide,14,75,Non,07:00,17:00
+LOG375,CT041,2023-01-26,Traitement,Acte de naissance,29,29,0,N/A,5,99,Non,09:45,17:45
+LOG376,CT014,2023-08-27,Formation,N/A,0,0,0,N/A,9,0,Non,08:30,16:30
+LOG377,CT042,2023-03-07,Traitement,Passeport,22,43,1,Adresse invalide,4,79,Non,09:00,19:00
+LOG378,CT050,2023-11-12,Formation,N/A,0,0,0,N/A,8,0,Oui,09:30,17:30
+LOG379,CT026,2023-06-25,Traitement,Acte de naissance,184,28,4,Date expiration,14,91,Non,07:30,15:30
+LOG380,CT026,2023-04-28,Formation,N/A,0,0,0,N/A,11,0,Non,08:00,16:00
+LOG381,CT038,2023-07-30,Traitement,Livre de famille,209,12,11,Adresse invalide,4,91,Non,08:45,17:45
+LOG382,CT004,2023-02-21,Traitement,Certificat de nationalité,24,16,0,N/A,10,39,Non,08:00,16:00
+LOG383,CT045,2023-02-01,Traitement,Certificat de nationalité,99,18,6,Date expiration,8,114,Oui,08:15,18:15
+LOG384,CT003,2023-10-17,Traitement,Certificat de nationalité,132,21,12,Signature manquante,4,98,Non,08:00,17:00
+LOG385,CT055,2023-11-29,Traitement,Certificat de nationalité,53,35,6,Erreur acte,12,19,Non,07:15,17:15
+LOG386,CT003,2023-03-19,Traitement,Casier judiciaire,213,40,8,Date expiration,15,25,Oui,07:45,16:45
+LOG387,CT051,2023-07-22,Formation,N/A,0,0,0,N/A,5,0,Non,09:15,18:15
+LOG388,CT032,2023-03-02,Traitement,Passeport,179,22,24,Signature manquante,14,90,Non,08:15,18:15
+LOG389,CT029,2023-11-20,Traitement,Livre de famille,270,22,23,Non éligible,11,102,Non,08:00,18:00
+LOG390,CT023,2023-07-30,Traitement,Livre de famille,58,39,4,Date expiration,7,107,Non,09:30,19:30
+LOG391,CT025,2023-02-26,Traitement,Certificat de nationalité,71,14,1,Non éligible,8,35,Non,09:15,19:15
+LOG392,CT034,2023-02-03,Traitement,Carte d'identité,46,28,5,Erreur acte,6,26,Non,09:15,17:15
+LOG393,CT052,2023-07-01,Traitement,Certificat de nationalité,68,10,8,Adresse invalide,4,115,Non,07:00,16:00
+LOG394,CT039,2023-08-11,Traitement,Casier judiciaire,76,31,7,Date expiration,9,39,Non,09:15,19:15
+LOG395,CT041,2023-08-01,Traitement,Passeport,97,20,7,Erreur acte,13,48,Non,08:00,16:00
+LOG396,CT016,2023-02-14,Traitement,Casier judiciaire,61,10,8,Adresse invalide,2,88,Non,09:45,18:45
+LOG397,CT018,2023-03-14,Traitement,Casier judiciaire,145,29,7,Date expiration,12,93,Non,09:15,19:15
+LOG398,CT011,2023-10-25,Traitement,Livre de famille,98,33,2,Erreur acte,15,43,Non,09:30,18:30
+LOG399,CT026,2023-07-28,Traitement,Carte d'identité,40,18,3,Double demande,12,62,Non,08:15,17:15
+LOG400,CT006,2023-01-30,Traitement,Passeport,74,41,7,Signature manquante,4,30,Non,08:00,17:00
+LOG401,CT046,2023-03-10,Maintenance,N/A,0,0,0,N/A,11,0,Non,08:00,18:00
+LOG402,CT015,2023-11-28,Traitement,Casier judiciaire,47,15,1,Papiers incomplets,3,78,Non,08:30,16:30
+LOG403,CT038,2023-08-31,Traitement,Carte d'identité,67,30,0,N/A,11,25,Non,07:15,15:15
+LOG404,CT039,2023-10-12,Formation,N/A,0,0,0,N/A,9,0,Non,09:30,17:30
+LOG405,CT047,2023-12-22,Maintenance,N/A,0,0,0,N/A,9,0,Non,08:15,18:15
+LOG406,CT010,2023-12-23,Traitement,Livre de famille,93,44,4,Signature manquante,15,35,Non,09:45,18:45
+LOG407,CT049,2023-08-14,Traitement,Carte d'identité,29,40,2,Papiers incomplets,11,11,Non,07:45,17:45
+LOG408,CT017,2023-03-19,Traitement,Acte de naissance,30,41,2,Adresse invalide,12,81,Oui,09:00,18:00
+LOG409,CT037,2023-12-14,Formation,N/A,0,0,0,N/A,10,0,Oui,08:30,18:30
+LOG410,CT001,2023-04-25,Traitement,Acte de naissance,201,20,10,Signature manquante,15,36,Non,07:45,16:45
+LOG411,CT033,2023-09-13,Traitement,Certificat de nationalité,209,19,22,Non éligible,4,45,Non,09:00,18:00
+LOG412,CT018,2023-09-24,Inventaire,N/A,0,0,0,N/A,12,0,Non,09:00,17:00
+LOG413,CT040,2023-12-02,Maintenance,N/A,0,0,0,N/A,2,0,Oui,09:00,19:00
+LOG414,CT051,2023-12-08,Traitement,Carte d'identité,181,5,4,Erreur acte,2,118,Non,08:45,16:45
+LOG415,CT022,2023-12-26,Traitement,Livre de famille,282,16,7,Signature manquante,11,113,Non,09:00,19:00
+LOG416,CT018,2023-08-25,Traitement,Carte d'identité,28,18,3,Non éligible,14,41,Non,09:45,18:45
+LOG417,CT053,2023-07-01,Traitement,Casier judiciaire,189,35,9,Signature manquante,8,63,Non,09:45,17:45
+LOG418,CT036,2023-09-29,Traitement,Casier judiciaire,47,39,4,Date expiration,8,93,Non,08:15,16:15
+LOG419,CT009,2023-10-18,Maintenance,N/A,0,0,0,N/A,13,0,Non,08:15,17:15
+LOG420,CT001,2023-06-06,Maintenance,N/A,0,0,0,N/A,4,0,Non,07:15,16:15
+LOG421,CT030,2023-01-13,Traitement,Passeport,86,17,5,Non éligible,9,46,Oui,08:00,16:00
+LOG422,CT035,2023-06-30,Traitement,Passeport,56,41,2,Erreur acte,14,34,Non,07:45,17:45
+LOG423,CT029,2023-05-11,Traitement,Certificat de nationalité,184,38,19,Erreur acte,8,83,Non,07:30,16:30
+LOG424,CT020,2023-07-11,Inventaire,N/A,0,0,0,N/A,5,0,Non,09:15,19:15
+LOG425,CT014,2023-10-03,Traitement,Acte de naissance,110,17,12,Papiers incomplets,10,42,Non,08:30,18:30
+LOG426,CT019,2023-09-21,Traitement,Certificat de nationalité,179,35,7,Non éligible,8,27,Non,07:30,15:30
+LOG427,CT001,2023-06-11,Traitement,Carte d'identité,91,20,9,Date expiration,2,60,Non,08:00,17:00
+LOG428,CT026,2023-02-15,Maintenance,N/A,0,0,0,N/A,14,0,Non,08:30,16:30
+LOG429,CT052,2023-12-14,Traitement,Acte de naissance,85,45,6,Adresse invalide,6,31,Non,07:30,15:30
+LOG430,CT043,2023-12-28,Maintenance,N/A,0,0,0,N/A,9,0,Non,07:45,16:45
+LOG431,CT019,2023-02-12,Traitement,Carte d'identité,292,42,18,Double demande,8,32,Non,07:15,17:15
+LOG432,CT038,2023-06-21,Traitement,Carte d'identité,60,18,3,Erreur acte,5,26,Non,07:30,16:30
+LOG433,CT021,2023-10-02,Traitement,Certificat de nationalité,55,32,2,Date expiration,14,48,Non,08:45,18:45
+LOG434,CT051,2023-03-04,Traitement,Livre de famille,147,43,10,Non éligible,11,71,Non,09:15,17:15
+LOG435,CT019,2023-03-02,Traitement,Casier judiciaire,280,20,5,Photo non conforme,11,76,Non,07:30,16:30
+LOG436,CT006,2023-09-27,Traitement,Passeport,90,39,1,Signature manquante,2,63,Non,07:45,15:45
+LOG437,CT004,2023-04-03,Formation,N/A,0,0,0,N/A,14,0,Oui,08:45,18:45
+LOG438,CT022,2023-11-09,Traitement,Acte de naissance,37,13,3,Signature manquante,9,20,Non,09:00,17:00
+LOG439,CT040,2023-05-12,Traitement,Livre de famille,33,33,1,Signature manquante,4,41,Non,07:00,15:00
+LOG440,CT047,2023-05-21,Traitement,Acte de naissance,45,37,5,Double demande,4,80,Non,09:45,18:45
+LOG441,CT033,2023-04-10,Maintenance,N/A,0,0,0,N/A,13,0,Non,07:00,17:00
+LOG442,CT055,2023-12-24,Traitement,Livre de famille,195,28,16,Signature manquante,9,105,Oui,08:45,18:45
+LOG443,CT036,2023-07-23,Inventaire,N/A,0,0,0,N/A,8,0,Non,09:30,19:30
+LOG444,CT012,2023-10-10,Traitement,Acte de naissance,247,30,25,Signature manquante,10,20,Non,07:45,15:45
+LOG445,CT050,2023-06-11,Traitement,Certificat de nationalité,224,40,29,Date expiration,15,113,Non,08:15,16:15
+LOG446,CT018,2023-01-08,Traitement,Certificat de nationalité,82,19,11,Date expiration,7,51,Non,09:15,18:15
+LOG447,CT034,2023-02-05,Traitement,Casier judiciaire,72,22,6,Date expiration,4,77,Non,07:45,15:45
+LOG448,CT036,2023-05-29,Traitement,Livre de famille,216,30,32,Papiers incomplets,15,24,Non,07:00,17:00
+LOG449,CT017,2023-07-27,Maintenance,N/A,0,0,0,N/A,11,0,Non,09:15,19:15
+LOG450,CT051,2023-08-08,Traitement,Acte de naissance,94,44,8,Non éligible,6,109,Non,08:30,16:30

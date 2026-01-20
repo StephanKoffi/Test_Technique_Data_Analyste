@@ -1,0 +1,65 @@
+annee,mois,region,prefecture,commune,type_document,nombre_demandes,delai_moyen_jours,taux_rejet_moyen
+2023,1,Maritime,Vo,Lomé,Carte d'identité,2450,12.5,0.05
+2023,1,Maritime,Vo,Lomé,Passeport,1650,25.2,0.08
+2023,1,Maritime,Vo,Lomé,Acte de naissance,890,10.1,0.02
+2023,1,Maritime,Vo,Lomé,Livre de famille,620,15.3,0.03
+2023,1,Maritime,Lacs,Aného,Carte d'identité,1250,14.5,0.04
+2023,1,Maritime,Lacs,Aného,Passeport,850,27.8,0.09
+2023,1,Maritime,Lacs,Aného,Acte de naissance,420,11.2,0.03
+2023,1,Maritime,Lacs,Aného,Livre de famille,310,16.5,0.04
+2023,1,Plateaux,Ogou,Atakpamé,Carte d'identité,1850,16.2,0.06
+2023,1,Plateaux,Ogou,Atakpamé,Passeport,980,29.5,0.10
+2023,1,Plateaux,Ogou,Atakpamé,Acte de naissance,560,12.8,0.03
+2023,1,Plateaux,Ogou,Atakpamé,Livre de famille,390,17.9,0.05
+2023,1,Centrale,Sotouboua,Sotouboua,Carte d'identité,950,18.4,0.07
+2023,1,Centrale,Sotouboua,Sotouboua,Passeport,520,31.2,0.11
+2023,1,Centrale,Sotouboua,Sotouboua,Acte de naissance,310,13.5,0.04
+2023,1,Centrale,Sotouboua,Sotouboua,Livre de famille,240,19.8,0.06
+2023,1,Kara,Kozah,Kara,Carte d'identité,1320,17.1,0.06
+2023,1,Kara,Kozah,Kara,Passeport,740,30.0,0.10
+2023,1,Kara,Kozah,Kara,Acte de naissance,410,12.9,0.03
+2023,1,Kara,Kozah,Kara,Livre de famille,300,18.2,0.05
+2023,1,Savanes,Oti,Dapaong,Carte d'identité,880,19.5,0.08
+2023,1,Savanes,Oti,Dapaong,Passeport,460,33.8,0.12
+2023,1,Savanes,Oti,Dapaong,Acte de naissance,280,14.2,0.05
+2023,1,Savanes,Oti,Dapaong,Livre de famille,210,21.5,0.07
+2023,3,Maritime,Vo,Lomé,Carte d'identité,2580,12.1,0.05
+2023,3,Maritime,Vo,Lomé,Passeport,1720,24.8,0.08
+2023,3,Maritime,Vo,Lomé,Acte de naissance,920,9.8,0.02
+2023,3,Maritime,Vo,Lomé,Livre de famille,650,14.9,0.03
+2023,3,Plateaux,Ogou,Atakpamé,Carte d'identité,1920,15.8,0.06
+2023,3,Plateaux,Ogou,Atakpamé,Passeport,1020,28.9,0.09
+2023,3,Plateaux,Ogou,Atakpamé,Acte de naissance,590,12.4,0.03
+2023,3,Plateaux,Ogou,Atakpamé,Livre de famille,420,17.2,0.05
+2023,3,Centrale,Tchaoudjo,Sokodé,Carte d'identité,1180,17.6,0.07
+2023,3,Centrale,Tchaoudjo,Sokodé,Passeport,610,30.5,0.11
+2023,3,Centrale,Tchaoudjo,Sokodé,Acte de naissance,360,13.1,0.04
+2023,3,Centrale,Tchaoudjo,Sokodé,Livre de famille,270,19.0,0.06
+2023,3,Kara,Kéran,Kanté,Carte d'identité,760,18.9,0.08
+2023,3,Kara,Kéran,Kanté,Passeport,410,32.2,0.12
+2023,3,Kara,Kéran,Kanté,Acte de naissance,250,14.0,0.05
+2023,3,Kara,Kéran,Kanté,Livre de famille,190,20.8,0.07
+2023,3,Savanes,Tône,Cinkassé,Carte d'identité,690,20.2,0.09
+2023,3,Savanes,Tône,Cinkassé,Passeport,360,34.5,0.13
+2023,3,Savanes,Tône,Cinkassé,Acte de naissance,220,14.8,0.06
+2023,3,Savanes,Tône,Cinkassé,Livre de famille,170,22.1,0.08
+2024,1,Maritime,Vo,Lomé,Carte d'identité,2700,11.4,0.04
+2024,1,Maritime,Vo,Lomé,Passeport,1800,23.6,0.07
+2024,1,Maritime,Vo,Lomé,Acte de naissance,980,9.2,0.02
+2024,1,Maritime,Vo,Lomé,Livre de famille,720,14.1,0.03
+2024,1,Plateaux,Kloto,Kpalimé,Carte d'identité,1420,14.9,0.05
+2024,1,Plateaux,Kloto,Kpalimé,Passeport,760,27.4,0.09
+2024,1,Plateaux,Kloto,Kpalimé,Acte de naissance,430,11.8,0.03
+2024,1,Plateaux,Kloto,Kpalimé,Livre de famille,320,16.4,0.04
+2024,1,Centrale,Blitta,Blitta,Carte d'identité,820,16.8,0.06
+2024,1,Centrale,Blitta,Blitta,Passeport,450,29.6,0.10
+2024,1,Centrale,Blitta,Blitta,Acte de naissance,280,12.5,0.04
+2024,1,Centrale,Blitta,Blitta,Livre de famille,210,18.3,0.06
+2024,1,Kara,Assoli,Bassar,Carte d'identité,910,17.2,0.07
+2024,1,Kara,Assoli,Bassar,Passeport,520,30.1,0.11
+2024,1,Kara,Assoli,Bassar,Acte de naissance,300,13.0,0.04
+2024,1,Kara,Assoli,Bassar,Livre de famille,230,19.2,0.06
+2024,1,Savanes,Kpendjal,Mandouri,Carte d'identité,650,19.8,0.09
+2024,1,Savanes,Kpendjal,Mandouri,Passeport,340,33.0,0.13
+2024,1,Savanes,Kpendjal,Mandouri,Acte de naissance,210,14.3,0.06
+2024,1,Savanes,Kpendjal,Mandouri,Livre de famille,160,21.0,0.08

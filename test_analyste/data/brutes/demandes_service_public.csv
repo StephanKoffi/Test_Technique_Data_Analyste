@@ -1,0 +1,601 @@
+demande_id,region,prefecture,commune,quartier,type_document,categorie_document,nombre_demandes,delai_traitement_jours,taux_rejet,date_demande,motif_demande,statut_demande,canal_demande,age_demandeur,sexe_demandeur
+D001,Centrale,Sotouboua,Sotouboua,Nyékonakpoé,Carte d'identité,Identité,168,1,0.0,2023-09-30,Perte,Rejetée,En ligne,27,M
+D002,Kara,Binah,Pagouda,Hôpital,Carte d'identité,Identité,17,22,0.09,2023-12-22,Vol,Traitee,En ligne,21,F
+D003,Plateaux,Ogou,Atakpamé,Bè,Certificat de nationalité,Identité,104,4,0.08,2023-08-13,Concours,Traitee,En ligne,18,M
+D004,Savanes,Oti,Mango,Amoutivé,Carte d'identité,Identité,92,39,0.02,2023-06-08,Première demande,Rejetée,Guichet,64,M
+D005,Maritime,Zio,Tsévié,Adidogomé,Livre de famille,Civil,138,7,0.12,2023-02-02,Détérioration,Rejetée,En ligne,30,M
+D006,Savanes,Tône,Dapaong,Nyékonakpoé,Carte d'identité,Identité,157,22,0.15,2023-04-02,Vol,Traitee,En ligne,82,F
+D007,Savanes,Oti,Mango,Golfe,Carte d'identité,Identité,25,9,0.01,2023-10-05,Vol,Rejetée,Guichet,53,M
+D008,Maritime,Golfe,Lomé,Golfe,Livre de famille,Civil,192,45,0.04,2023-06-21,Perte,Traitee,En ligne,83,M
+D009,Centrale,Tchaoudjo,Sokodé,Hôpital,Passeport,Voyage,177,4,0.08,2023-02-08,Perte,Traitee,Guichet,29,M
+D010,Kara,Kozah,Kara,Tokoin,Livre de famille,Civil,21,15,0.1,2023-11-09,Détérioration,En cours,En ligne,70,F
+D011,Maritime,Golfe,Adidogomé,Hôpital,Casier judiciaire,Judiciaire,145,31,0.15,2023-10-30,Emploi,En cours,Guichet,39,F
+D012,Kara,Binah,Pagouda,Kodjoviakopé,Livre de famille,Civil,140,19,0.13,2023-05-18,Nouveau mariage,Traitee,Guichet,83,F
+D013,Centrale,Sotouboua,Sotouboua,Golfe,Livre de famille,Civil,102,37,0.06,2023-06-25,Perte,Rejetée,Guichet,37,F
+D014,Savanes,Tône,Dapaong,Golfe,Casier judiciaire,Judiciaire,11,18,0.12,2023-04-30,Emploi,Traitee,En ligne,70,M
+D015,Kara,Binah,Pagouda,Hôpital,Passeport,Voyage,27,33,0.07,2023-12-25,Perte,Rejetée,Guichet,53,M
+D016,Centrale,Tchaoudjo,Sokodé,Amoutivé,Casier judiciaire,Judiciaire,127,5,0.1,2023-11-13,Voyage,Traitee,Guichet,67,M
+D017,Maritime,Vo,Vogan,Hôpital,Passeport,Voyage,61,24,0.04,2023-02-21,Voyage,Traitee,En ligne,30,F
+D018,Kara,Binah,Pagouda,Nyékonakpoé,Acte de naissance,Civil,167,2,0.01,2023-04-29,Perte,En cours,Guichet,63,M
+D019,Centrale,Sotouboua,Sotouboua,Kodjoviakopé,Carte d'identité,Identité,38,7,0.1,2023-11-10,Vol,Traitee,Guichet,57,M
+D020,Maritime,Lacs,Aného,Tokoin,Acte de naissance,Civil,10,24,0.02,2023-09-12,Erreur,En cours,Guichet,51,F
+D021,Centrale,Tchaoudjo,Sokodé,Amoutivé,Passeport,Voyage,24,4,0.1,2023-07-15,Page pleine,Traitee,Guichet,77,F
+D022,Kara,Binah,Pagouda,Bè,Acte de naissance,Civil,61,22,0.04,2023-03-08,Reconstitution,Traitee,En ligne,68,F
+D023,Plateaux,Haho,Notsé,Adidogomé,Acte de naissance,Civil,180,35,0.12,2023-04-28,Detérioré,Traitee,En ligne,58,M
+D024,Savanes,Tône,Dapaong,Agoè,Acte de naissance,Civil,13,8,0.11,2023-04-07,Perte,En cours,Guichet,21,M
+D025,Kara,Binah,Pagouda,Amoutivé,Carte d'identité,Identité,186,20,0.14,2023-05-15,Expiration,Traitee,En ligne,63,M
+D026,Plateaux,Haho,Notsé,Agoè,Certificat de nationalité,Identité,156,2,0.05,2023-10-03,Concours,En cours,Guichet,86,F
+D027,Savanes,Tône,Dapaong,Agoè,Casier judiciaire,Judiciaire,187,29,0.1,2023-09-05,Emploi,Rejetée,En ligne,71,M
+D028,Savanes,Tône,Dapaong,Adidogomé,Acte de naissance,Civil,139,39,0.07,2023-04-17,Erreur,En cours,Guichet,84,M
+D029,Centrale,Tchaoudjo,Sokodé,Tokoin,Certificat de nationalité,Identité,164,11,0.03,2023-09-04,Concours,Rejetée,Guichet,45,F
+D030,Plateaux,Ogou,Atakpamé,Amoutivé,Acte de naissance,Civil,117,45,0.08,2023-07-04,Erreur,Rejetée,En ligne,21,F
+D031,Kara,Kozah,Kara,Hôpital,Passeport,Voyage,87,18,0.01,2023-03-20,Expiration,Rejetée,Guichet,87,F
+D032,Centrale,Sotouboua,Sotouboua,Kwé,Passeport,Voyage,103,24,0.14,2023-10-23,Expiration,En cours,Guichet,88,M
+D033,Centrale,Sotouboua,Sotouboua,Kwé,Casier judiciaire,Judiciaire,177,13,0.08,2023-06-04,Voyage,Rejetée,Guichet,63,F
+D034,Plateaux,Kloto,Kpalimé,Adidogomé,Passeport,Voyage,134,38,0.14,2023-10-21,Page pleine,Rejetée,Guichet,43,M
+D035,Plateaux,Ogou,Atakpamé,Golfe,Carte d'identité,Identité,160,41,0.09,2023-05-12,Perte,Traitee,En ligne,20,M
+D036,Savanes,Tône,Dapaong,Tokoin,Passeport,Voyage,193,2,0.05,2023-10-27,Page pleine,Rejetée,En ligne,81,M
+D037,Maritime,Zio,Tsévié,Amoutivé,Livre de famille,Civil,58,19,0.12,2023-07-11,Perte,Rejetée,En ligne,40,M
+D038,Maritime,Vo,Vogan,Amoutivé,Livre de famille,Civil,30,25,0.14,2023-12-22,Détérioration,En cours,En ligne,54,F
+D039,Savanes,Tône,Dapaong,Hedzranawoé,Passeport,Voyage,78,26,0.04,2023-03-12,Page pleine,Traitee,Guichet,36,M
+D040,Plateaux,Ogou,Atakpamé,Nyékonakpoé,Acte de naissance,Civil,57,11,0.06,2023-02-26,Erreur,Rejetée,En ligne,86,M
+D041,Savanes,Oti,Mango,Bè,Livre de famille,Civil,131,26,0.06,2023-04-20,Perte,Rejetée,Guichet,36,M
+D042,Maritime,Lacs,Aného,Agoè,Certificat de nationalité,Identité,111,34,0.02,2023-12-30,Première demande,Traitee,En ligne,90,M
+D043,Maritime,Vo,Vogan,Golfe,Acte de naissance,Civil,93,21,0.07,2023-02-19,Erreur,Rejetée,En ligne,38,M
+D044,Maritime,Golfe,Bè,Agoè,Acte de naissance,Civil,68,34,0.01,2023-08-20,Detérioré,Rejetée,Guichet,56,M
+D045,Savanes,Oti,Mango,Golfe,Acte de naissance,Civil,192,31,0.12,2023-04-07,Erreur,Traitee,En ligne,90,F
+D046,Centrale,Tchaoudjo,Sokodé,Hôpital,Acte de naissance,Civil,56,31,0.15,2023-09-19,Erreur,Traitee,En ligne,85,F
+D047,Plateaux,Ogou,Atakpamé,Bè,Carte d'identité,Identité,190,36,0.05,2023-10-20,Première demande,Rejetée,En ligne,53,F
+D048,Plateaux,Kloto,Kpalimé,Kwé,Acte de naissance,Civil,170,5,0.07,2023-03-11,Perte,Rejetée,Guichet,70,M
+D049,Centrale,Sotouboua,Sotouboua,Hôpital,Certificat de nationalité,Identité,22,21,0.01,2023-03-04,Perte,Traitee,En ligne,22,M
+D050,Maritime,Lacs,Aného,Adidogomé,Casier judiciaire,Judiciaire,73,39,0.1,2023-01-30,Emploi,Rejetée,En ligne,38,F
+D051,Maritime,Zio,Tsévié,Hôpital,Acte de naissance,Civil,118,11,0.08,2023-12-25,Perte,Traitee,En ligne,24,M
+D052,Plateaux,Haho,Notsé,Golfe,Carte d'identité,Identité,71,3,0.05,2023-03-28,Vol,Rejetée,En ligne,21,M
+D053,Savanes,Oti,Mango,Golfe,Acte de naissance,Civil,42,42,0.04,2023-05-15,Erreur,En cours,Guichet,21,F
+D054,Maritime,Lacs,Aného,Tokoin,Casier judiciaire,Judiciaire,14,41,0.01,2023-08-01,Emploi,Traitee,En ligne,69,M
+D055,Kara,Binah,Pagouda,Hedzranawoé,Acte de naissance,Civil,85,19,0.09,2023-06-18,Detérioré,Traitee,Guichet,52,F
+D056,Plateaux,Haho,Notsé,Amoutivé,Acte de naissance,Civil,59,23,0.13,2023-04-17,Erreur,En cours,En ligne,36,M
+D057,Plateaux,Ogou,Atakpamé,Kodjoviakopé,Carte d'identité,Identité,87,29,0.02,2023-06-22,Détérioration,En cours,Guichet,24,M
+D058,Maritime,Zio,Tsévié,Agoè,Certificat de nationalité,Identité,185,32,0.1,2023-05-18,Perte,Rejetée,Guichet,81,F
+D059,Kara,Kozah,Kara,Hedzranawoé,Carte d'identité,Identité,181,25,0.08,2023-04-26,Perte,Traitee,En ligne,37,F
+D060,Kara,Binah,Pagouda,Tokoin,Certificat de nationalité,Identité,114,42,0.01,2023-12-10,Première demande,En cours,Guichet,18,F
+D061,Kara,Binah,Pagouda,Bè,Carte d'identité,Identité,100,32,0.07,2023-05-20,Première demande,En cours,Guichet,39,F
+D062,Savanes,Tône,Dapaong,Hedzranawoé,Certificat de nationalité,Identité,191,44,0.15,2023-05-16,Première demande,Rejetée,Guichet,40,F
+D063,Maritime,Vo,Vogan,Golfe,Acte de naissance,Civil,129,7,0.05,2023-07-21,Perte,Traitee,Guichet,51,F
+D064,Maritime,Zio,Tsévié,Hedzranawoé,Passeport,Voyage,146,7,0.13,2023-11-19,Expiration,Traitee,Guichet,65,M
+D065,Maritime,Lacs,Aného,Adidogomé,Passeport,Voyage,194,30,0.03,2023-07-29,Page pleine,Traitee,En ligne,62,F
+D066,Maritime,Zio,Tsévié,Agoè,Carte d'identité,Identité,104,29,0.07,2023-11-27,Détérioration,Rejetée,Guichet,73,M
+D067,Plateaux,Kloto,Kpalimé,Kodjoviakopé,Certificat de nationalité,Identité,51,4,0.12,2023-03-26,Perte,Traitee,Guichet,67,F
+D068,Maritime,Lacs,Aného,Golfe,Passeport,Voyage,163,36,0.01,2023-07-04,Perte,Rejetée,Guichet,88,M
+D069,Savanes,Tône,Dapaong,Kwé,Livre de famille,Civil,113,17,0.13,2023-04-30,Perte,En cours,En ligne,33,F
+D070,Centrale,Tchaoudjo,Sokodé,Hedzranawoé,Acte de naissance,Civil,142,13,0.03,2023-01-19,Perte,Rejetée,Guichet,50,M
+D071,Plateaux,Haho,Notsé,Hôpital,Acte de naissance,Civil,177,9,0.0,2023-07-27,Perte,Traitee,Guichet,84,M
+D072,Savanes,Oti,Mango,Hedzranawoé,Passeport,Voyage,18,25,0.13,2023-11-11,Voyage,En cours,En ligne,69,M
+D073,Kara,Binah,Pagouda,Agoè,Livre de famille,Civil,125,19,0.07,2023-06-04,Perte,Rejetée,En ligne,67,M
+D074,Plateaux,Kloto,Kpalimé,Amoutivé,Casier judiciaire,Judiciaire,145,37,0.15,2023-03-29,Concours,Traitee,Guichet,49,F
+D075,Kara,Binah,Pagouda,Adidogomé,Certificat de nationalité,Identité,55,34,0.0,2023-05-18,Première demande,Rejetée,En ligne,60,M
+D076,Maritime,Zio,Tsévié,Kwé,Carte d'identité,Identité,43,29,0.04,2023-04-07,Vol,En cours,En ligne,66,M
+D077,Centrale,Tchaoudjo,Sokodé,Hedzranawoé,Casier judiciaire,Judiciaire,136,19,0.03,2023-06-29,Emploi,En cours,En ligne,63,M
+D078,Maritime,Vo,Vogan,Kwé,Certificat de nationalité,Identité,178,24,0.14,2023-03-02,Première demande,Rejetée,En ligne,19,M
+D079,Savanes,Oti,Mango,Agoè,Casier judiciaire,Judiciaire,179,25,0.01,2023-09-26,Emploi,En cours,Guichet,30,M
+D080,Maritime,Lacs,Aného,Hôpital,Certificat de nationalité,Identité,29,22,0.14,2023-06-17,Première demande,Traitee,Guichet,90,M
+D081,Kara,Binah,Pagouda,Kodjoviakopé,Livre de famille,Civil,38,13,0.05,2023-08-10,Perte,Rejetée,Guichet,81,M
+D082,Plateaux,Haho,Notsé,Kodjoviakopé,Passeport,Voyage,22,26,0.07,2023-12-11,Page pleine,En cours,Guichet,79,F
+D083,Maritime,Vo,Vogan,Golfe,Livre de famille,Civil,69,32,0.09,2023-10-13,Détérioration,Rejetée,Guichet,72,M
+D084,Maritime,Lacs,Aného,Golfe,Carte d'identité,Identité,119,44,0.11,2023-11-26,Première demande,Traitee,Guichet,61,F
+D085,Savanes,Oti,Mango,Nyékonakpoé,Acte de naissance,Civil,149,4,0.1,2023-07-20,Erreur,En cours,Guichet,72,F
+D086,Plateaux,Kloto,Kpalimé,Amoutivé,Acte de naissance,Civil,33,3,0.12,2023-11-14,Perte,En cours,En ligne,61,F
+D087,Plateaux,Haho,Notsé,Amoutivé,Livre de famille,Civil,171,26,0.05,2023-01-01,Détérioration,Traitee,En ligne,88,M
+D088,Maritime,Zio,Tsévié,Hôpital,Certificat de nationalité,Identité,145,37,0.08,2023-05-21,Concours,En cours,Guichet,86,M
+D089,Savanes,Tône,Dapaong,Tokoin,Certificat de nationalité,Identité,21,26,0.06,2023-12-10,Perte,Rejetée,Guichet,31,M
+D090,Kara,Kozah,Kara,Tokoin,Carte d'identité,Identité,143,13,0.11,2023-03-28,Vol,En cours,En ligne,30,F
+D091,Plateaux,Ogou,Atakpamé,Golfe,Certificat de nationalité,Identité,79,44,0.11,2023-09-20,Concours,Traitee,En ligne,38,F
+D092,Kara,Kozah,Kara,Hôpital,Livre de famille,Civil,195,37,0.1,2023-09-12,Détérioration,Rejetée,En ligne,64,M
+D093,Savanes,Oti,Mango,Amoutivé,Livre de famille,Civil,110,4,0.01,2023-05-30,Détérioration,Rejetée,Guichet,70,F
+D094,Kara,Kozah,Kara,Hôpital,Acte de naissance,Civil,81,27,0.05,2023-01-30,Erreur,Traitee,Guichet,53,M
+D095,Centrale,Sotouboua,Sotouboua,Kwé,Acte de naissance,Civil,165,11,0.09,2023-06-17,Perte,Rejetée,Guichet,30,F
+D096,Centrale,Sotouboua,Sotouboua,Kwé,Certificat de nationalité,Identité,63,4,0.09,2023-10-10,Concours,Traitee,Guichet,54,M
+D097,Centrale,Sotouboua,Sotouboua,Amoutivé,Casier judiciaire,Judiciaire,150,3,0.1,2023-05-30,Emploi,En cours,En ligne,67,M
+D098,Kara,Kozah,Kara,Hôpital,Carte d'identité,Identité,30,17,0.12,2023-10-28,Première demande,En cours,Guichet,68,F
+D099,Plateaux,Kloto,Kpalimé,Agoè,Acte de naissance,Civil,196,33,0.1,2023-11-20,Erreur,Rejetée,Guichet,36,M
+D100,Kara,Kozah,Kara,Tokoin,Certificat de nationalité,Identité,105,30,0.02,2023-04-09,Perte,Rejetée,Guichet,69,F
+D101,Plateaux,Ogou,Atakpamé,Hôpital,Certificat de nationalité,Identité,101,32,0.11,2023-07-29,Perte,En cours,Guichet,59,M
+D102,Maritime,Golfe,Lomé,Bè,Acte de naissance,Civil,61,8,0.11,2023-10-04,Reconstitution,Rejetée,En ligne,39,M
+D103,Centrale,Sotouboua,Sotouboua,Bè,Acte de naissance,Civil,18,22,0.11,2023-08-27,Perte,En cours,Guichet,21,F
+D104,Centrale,Sotouboua,Sotouboua,Hedzranawoé,Acte de naissance,Civil,43,22,0.04,2023-02-07,Perte,Rejetée,Guichet,55,F
+D105,Maritime,Vo,Vogan,Nyékonakpoé,Carte d'identité,Identité,177,8,0.05,2023-10-15,Première demande,Rejetée,En ligne,47,F
+D106,Kara,Kozah,Kara,Bè,Casier judiciaire,Judiciaire,18,40,0.11,2023-07-19,Emploi,En cours,En ligne,26,M
+D107,Centrale,Tchaoudjo,Sokodé,Adidogomé,Acte de naissance,Civil,44,41,0.0,2023-03-24,Detérioré,Traitee,Guichet,65,M
+D108,Savanes,Oti,Mango,Tokoin,Carte d'identité,Identité,153,29,0.04,2023-11-07,Détérioration,Traitee,En ligne,79,F
+D109,Plateaux,Haho,Notsé,Amoutivé,Carte d'identité,Identité,179,12,0.13,2023-02-03,Vol,Traitee,En ligne,35,M
+D110,Kara,Kozah,Kara,Tokoin,Passeport,Voyage,174,26,0.03,2023-11-22,Perte,Traitee,Guichet,90,M
+D111,Savanes,Tône,Dapaong,Bè,Passeport,Voyage,118,31,0.03,2023-07-04,Perte,En cours,Guichet,58,M
+D112,Centrale,Tchaoudjo,Sokodé,Bè,Passeport,Voyage,14,42,0.14,2023-10-31,Expiration,En cours,Guichet,24,M
+D113,Centrale,Tchaoudjo,Sokodé,Agoè,Certificat de nationalité,Identité,23,39,0.05,2023-06-22,Perte,En cours,Guichet,72,M
+D114,Centrale,Tchaoudjo,Sokodé,Golfe,Casier judiciaire,Judiciaire,104,16,0.02,2023-09-04,Concours,Rejetée,Guichet,78,M
+D115,Plateaux,Kloto,Kpalimé,Golfe,Casier judiciaire,Judiciaire,43,37,0.02,2023-08-15,Voyage,En cours,En ligne,37,M
+D116,Maritime,Lacs,Aného,Tokoin,Acte de naissance,Civil,66,6,0.09,2023-06-01,Perte,Rejetée,En ligne,53,F
+D117,Savanes,Tône,Dapaong,Kwé,Casier judiciaire,Judiciaire,111,34,0.07,2023-07-06,Concours,Rejetée,Guichet,59,F
+D118,Kara,Kozah,Kara,Kwé,Passeport,Voyage,69,8,0.06,2023-03-11,Voyage,En cours,Guichet,32,M
+D119,Centrale,Sotouboua,Sotouboua,Hôpital,Livre de famille,Civil,18,23,0.01,2023-10-04,Nouveau mariage,Traitee,Guichet,81,M
+D120,Kara,Kozah,Kara,Agoè,Passeport,Voyage,109,14,0.01,2023-08-29,Perte,Rejetée,En ligne,19,M
+D121,Centrale,Tchaoudjo,Sokodé,Amoutivé,Casier judiciaire,Judiciaire,167,42,0.05,2023-06-17,Concours,En cours,En ligne,43,F
+D122,Savanes,Oti,Mango,Kodjoviakopé,Certificat de nationalité,Identité,195,29,0.03,2023-06-03,Perte,Rejetée,En ligne,57,M
+D123,Kara,Kozah,Kara,Nyékonakpoé,Certificat de nationalité,Identité,129,8,0.0,2023-03-03,Première demande,En cours,Guichet,28,M
+D124,Plateaux,Kloto,Kpalimé,Golfe,Acte de naissance,Civil,199,22,0.0,2023-08-07,Detérioré,Rejetée,En ligne,72,F
+D125,Plateaux,Kloto,Kpalimé,Golfe,Certificat de nationalité,Identité,197,11,0.07,2023-07-14,Perte,Traitee,En ligne,44,M
+D126,Kara,Kozah,Kara,Kwé,Certificat de nationalité,Identité,106,19,0.06,2023-11-18,Première demande,Traitee,Guichet,66,M
+D127,Plateaux,Kloto,Kpalimé,Golfe,Passeport,Voyage,62,22,0.11,2023-04-20,Perte,Traitee,En ligne,48,M
+D128,Maritime,Vo,Vogan,Adidogomé,Livre de famille,Civil,180,19,0.01,2023-09-01,Perte,Rejetée,En ligne,26,M
+D129,Maritime,Vo,Vogan,Hedzranawoé,Certificat de nationalité,Identité,165,33,0.02,2023-02-25,Perte,En cours,En ligne,25,M
+D130,Maritime,Golfe,Adidogomé,Adidogomé,Livre de famille,Civil,51,5,0.08,2023-10-07,Perte,En cours,En ligne,24,F
+D131,Centrale,Sotouboua,Sotouboua,Adidogomé,Carte d'identité,Identité,155,27,0.06,2023-07-07,Première demande,Rejetée,En ligne,84,F
+D132,Centrale,Tchaoudjo,Sokodé,Adidogomé,Certificat de nationalité,Identité,116,1,0.13,2023-08-24,Perte,Traitee,En ligne,23,F
+D133,Maritime,Golfe,Adidogomé,Tokoin,Acte de naissance,Civil,30,21,0.13,2023-04-26,Reconstitution,Rejetée,Guichet,19,M
+D134,Kara,Kozah,Kara,Amoutivé,Livre de famille,Civil,94,10,0.02,2023-03-01,Perte,Traitee,Guichet,80,F
+D135,Plateaux,Kloto,Kpalimé,Agoè,Passeport,Voyage,113,10,0.04,2023-05-08,Page pleine,Traitee,En ligne,83,F
+D136,Kara,Kozah,Kara,Hôpital,Certificat de nationalité,Identité,128,1,0.0,2023-03-05,Perte,Rejetée,En ligne,22,M
+D137,Maritime,Vo,Vogan,Kodjoviakopé,Carte d'identité,Identité,189,3,0.03,2023-07-20,Vol,Traitee,En ligne,55,F
+D138,Savanes,Oti,Mango,Amoutivé,Certificat de nationalité,Identité,171,20,0.13,2023-12-13,Perte,En cours,Guichet,50,M
+D139,Savanes,Tône,Dapaong,Tokoin,Carte d'identité,Identité,150,12,0.06,2023-03-18,Détérioration,Traitee,Guichet,56,F
+D140,Plateaux,Haho,Notsé,Hôpital,Livre de famille,Civil,91,35,0.1,2023-08-03,Détérioration,En cours,Guichet,60,M
+D141,Savanes,Tône,Dapaong,Kodjoviakopé,Passeport,Voyage,183,10,0.09,2023-04-09,Page pleine,Traitee,Guichet,69,F
+D142,Plateaux,Haho,Notsé,Adidogomé,Certificat de nationalité,Identité,50,21,0.12,2023-09-28,Première demande,En cours,Guichet,36,F
+D143,Plateaux,Haho,Notsé,Hôpital,Acte de naissance,Civil,24,15,0.09,2023-01-24,Erreur,Traitee,Guichet,36,F
+D144,Maritime,Golfe,Lomé,Adidogomé,Carte d'identité,Identité,177,32,0.06,2023-02-01,Vol,En cours,En ligne,40,F
+D145,Savanes,Tône,Dapaong,Adidogomé,Passeport,Voyage,68,14,0.15,2023-01-30,Expiration,En cours,En ligne,90,F
+D146,Maritime,Golfe,Adidogomé,Hedzranawoé,Passeport,Voyage,190,34,0.03,2023-02-07,Expiration,En cours,En ligne,49,M
+D147,Savanes,Tône,Dapaong,Hôpital,Livre de famille,Civil,98,33,0.08,2023-07-31,Détérioration,Traitee,Guichet,70,M
+D148,Savanes,Oti,Mango,Agoè,Livre de famille,Civil,199,37,0.14,2023-01-10,Détérioration,En cours,En ligne,88,M
+D149,Plateaux,Haho,Notsé,Hôpital,Acte de naissance,Civil,100,31,0.11,2023-01-05,Reconstitution,En cours,Guichet,26,F
+D150,Plateaux,Ogou,Atakpamé,Kwé,Certificat de nationalité,Identité,156,31,0.09,2023-05-02,Première demande,Rejetée,En ligne,27,M
+D151,Kara,Binah,Pagouda,Hôpital,Livre de famille,Civil,121,43,0.13,2023-07-19,Détérioration,Traitee,Guichet,71,F
+D152,Centrale,Sotouboua,Sotouboua,Agoè,Carte d'identité,Identité,128,40,0.05,2023-07-18,Expiration,Rejetée,Guichet,38,M
+D153,Centrale,Tchaoudjo,Sokodé,Hôpital,Certificat de nationalité,Identité,56,21,0.11,2023-01-25,Concours,En cours,Guichet,24,M
+D154,Centrale,Sotouboua,Sotouboua,Nyékonakpoé,Certificat de nationalité,Identité,128,15,0.01,2023-06-07,Première demande,Traitee,Guichet,43,F
+D155,Kara,Kozah,Kara,Hôpital,Acte de naissance,Civil,142,19,0.01,2023-06-08,Detérioré,Rejetée,Guichet,66,M
+D156,Kara,Kozah,Kara,Amoutivé,Casier judiciaire,Judiciaire,91,35,0.03,2023-12-30,Voyage,En cours,En ligne,61,F
+D157,Savanes,Oti,Mango,Bè,Passeport,Voyage,23,22,0.11,2023-04-09,Expiration,En cours,En ligne,28,M
+D158,Savanes,Oti,Mango,Nyékonakpoé,Certificat de nationalité,Identité,65,8,0.01,2023-04-01,Concours,Rejetée,En ligne,39,M
+D159,Plateaux,Kloto,Kpalimé,Amoutivé,Certificat de nationalité,Identité,153,44,0.02,2023-05-29,Perte,Traitee,Guichet,53,M
+D160,Kara,Kozah,Kara,Bè,Acte de naissance,Civil,33,21,0.13,2023-11-06,Erreur,En cours,Guichet,23,F
+D161,Plateaux,Ogou,Atakpamé,Kwé,Certificat de nationalité,Identité,126,15,0.08,2023-07-21,Première demande,Traitee,En ligne,24,F
+D162,Plateaux,Ogou,Atakpamé,Bè,Acte de naissance,Civil,155,39,0.04,2023-02-16,Reconstitution,Rejetée,En ligne,80,F
+D163,Savanes,Oti,Mango,Kwé,Certificat de nationalité,Identité,135,45,0.14,2023-12-31,Première demande,Rejetée,Guichet,20,F
+D164,Centrale,Tchaoudjo,Sokodé,Agoè,Passeport,Voyage,40,41,0.08,2023-06-14,Page pleine,Traitee,Guichet,72,F
+D165,Maritime,Lacs,Aného,Hedzranawoé,Casier judiciaire,Judiciaire,44,40,0.13,2023-07-04,Voyage,Rejetée,Guichet,77,F
+D166,Centrale,Sotouboua,Sotouboua,Adidogomé,Passeport,Voyage,15,31,0.08,2023-05-16,Perte,Rejetée,En ligne,70,M
+D167,Savanes,Tône,Dapaong,Agoè,Livre de famille,Civil,183,43,0.02,2023-09-24,Perte,Rejetée,Guichet,79,F
+D168,Kara,Binah,Pagouda,Kwé,Carte d'identité,Identité,33,10,0.1,2023-09-30,Perte,En cours,Guichet,49,F
+D169,Maritime,Vo,Vogan,Golfe,Certificat de nationalité,Identité,102,19,0.04,2023-01-03,Première demande,Traitee,En ligne,45,F
+D170,Centrale,Tchaoudjo,Sokodé,Tokoin,Livre de famille,Civil,186,8,0.04,2023-08-17,Détérioration,Traitee,Guichet,29,F
+D171,Kara,Kozah,Kara,Tokoin,Passeport,Voyage,24,8,0.1,2023-12-29,Perte,Rejetée,Guichet,25,F
+D172,Kara,Binah,Pagouda,Bè,Certificat de nationalité,Identité,144,3,0.13,2023-10-10,Première demande,Rejetée,En ligne,67,F
+D173,Savanes,Oti,Mango,Hedzranawoé,Passeport,Voyage,83,14,0.05,2023-09-09,Expiration,Rejetée,En ligne,88,F
+D174,Plateaux,Kloto,Kpalimé,Kwé,Casier judiciaire,Judiciaire,37,16,0.03,2023-05-22,Voyage,En cours,Guichet,63,M
+D175,Savanes,Oti,Mango,Tokoin,Acte de naissance,Civil,39,9,0.11,2023-06-19,Erreur,Traitee,Guichet,34,M
+D176,Maritime,Golfe,Bè,Agoè,Livre de famille,Civil,191,2,0.08,2023-12-11,Détérioration,En cours,Guichet,62,M
+D177,Maritime,Lacs,Aného,Golfe,Passeport,Voyage,105,21,0.0,2023-10-22,Perte,Rejetée,Guichet,71,F
+D178,Maritime,Zio,Tsévié,Agoè,Acte de naissance,Civil,48,26,0.15,2023-10-13,Erreur,Traitee,Guichet,20,M
+D179,Kara,Binah,Pagouda,Hôpital,Certificat de nationalité,Identité,31,36,0.03,2023-10-12,Première demande,Traitee,En ligne,46,M
+D180,Kara,Binah,Pagouda,Nyékonakpoé,Carte d'identité,Identité,52,10,0.02,2023-06-03,Vol,En cours,En ligne,74,M
+D181,Plateaux,Ogou,Atakpamé,Bè,Livre de famille,Civil,150,17,0.06,2023-12-21,Détérioration,Rejetée,En ligne,58,F
+D182,Kara,Kozah,Kara,Hedzranawoé,Livre de famille,Civil,32,17,0.0,2023-09-09,Perte,En cours,En ligne,51,M
+D183,Savanes,Tône,Dapaong,Kwé,Passeport,Voyage,180,23,0.0,2023-04-14,Voyage,Rejetée,En ligne,53,M
+D184,Savanes,Oti,Mango,Kodjoviakopé,Acte de naissance,Civil,22,14,0.09,2023-07-11,Perte,En cours,Guichet,35,F
+D185,Kara,Binah,Pagouda,Nyékonakpoé,Carte d'identité,Identité,113,21,0.06,2023-05-07,Vol,Rejetée,En ligne,65,M
+D186,Centrale,Tchaoudjo,Sokodé,Tokoin,Acte de naissance,Civil,200,7,0.14,2023-08-03,Perte,Rejetée,Guichet,81,M
+D187,Savanes,Oti,Mango,Hôpital,Passeport,Voyage,124,35,0.09,2023-10-07,Perte,Traitee,Guichet,40,M
+D188,Maritime,Vo,Vogan,Bè,Passeport,Voyage,55,16,0.13,2023-05-07,Voyage,En cours,En ligne,27,M
+D189,Plateaux,Kloto,Kpalimé,Bè,Passeport,Voyage,183,3,0.04,2023-05-07,Page pleine,En cours,En ligne,85,F
+D190,Centrale,Tchaoudjo,Sokodé,Tokoin,Acte de naissance,Civil,26,42,0.1,2023-07-01,Detérioré,Traitee,Guichet,90,F
+D191,Centrale,Sotouboua,Sotouboua,Amoutivé,Livre de famille,Civil,27,15,0.06,2023-09-22,Perte,En cours,En ligne,51,M
+D192,Maritime,Vo,Vogan,Kodjoviakopé,Certificat de nationalité,Identité,10,17,0.13,2023-01-04,Perte,En cours,En ligne,47,M
+D193,Centrale,Sotouboua,Sotouboua,Nyékonakpoé,Carte d'identité,Identité,31,29,0.12,2023-09-11,Première demande,Rejetée,En ligne,21,F
+D194,Kara,Binah,Pagouda,Hedzranawoé,Certificat de nationalité,Identité,161,42,0.12,2023-05-16,Concours,Rejetée,En ligne,47,M
+D195,Centrale,Sotouboua,Sotouboua,Kwé,Passeport,Voyage,200,35,0.09,2023-02-22,Page pleine,Rejetée,En ligne,51,M
+D196,Centrale,Tchaoudjo,Sokodé,Kodjoviakopé,Passeport,Voyage,158,25,0.08,2023-04-05,Perte,Rejetée,Guichet,56,F
+D197,Kara,Binah,Pagouda,Nyékonakpoé,Acte de naissance,Civil,195,13,0.12,2023-05-04,Erreur,En cours,Guichet,74,F
+D198,Plateaux,Ogou,Atakpamé,Nyékonakpoé,Certificat de nationalité,Identité,193,25,0.14,2023-08-25,Perte,Traitee,Guichet,74,F
+D199,Maritime,Zio,Tsévié,Bè,Acte de naissance,Civil,98,9,0.05,2023-11-09,Reconstitution,Rejetée,En ligne,39,F
+D200,Maritime,Golfe,Bè,Bè,Acte de naissance,Civil,35,30,0.13,2023-08-19,Erreur,En cours,Guichet,58,M
+D201,Savanes,Tône,Dapaong,Kwé,Passeport,Voyage,152,33,0.15,2023-10-29,Expiration,Rejetée,Guichet,47,M
+D202,Savanes,Tône,Dapaong,Golfe,Casier judiciaire,Judiciaire,59,26,0.11,2023-06-11,Voyage,En cours,Guichet,44,M
+D203,Kara,Kozah,Kara,Nyékonakpoé,Acte de naissance,Civil,101,1,0.05,2023-08-15,Erreur,Rejetée,En ligne,79,F
+D204,Savanes,Tône,Dapaong,Golfe,Certificat de nationalité,Identité,117,10,0.05,2023-06-16,Perte,Traitee,Guichet,83,M
+D205,Plateaux,Kloto,Kpalimé,Hedzranawoé,Casier judiciaire,Judiciaire,172,26,0.1,2023-12-09,Concours,Rejetée,En ligne,58,M
+D206,Savanes,Oti,Mango,Tokoin,Acte de naissance,Civil,29,18,0.05,2023-02-14,Reconstitution,Traitee,Guichet,56,M
+D207,Maritime,Golfe,Lomé,Bè,Acte de naissance,Civil,93,8,0.12,2023-03-02,Detérioré,En cours,En ligne,31,M
+D208,Centrale,Tchaoudjo,Sokodé,Kodjoviakopé,Certificat de nationalité,Identité,160,30,0.1,2023-01-27,Première demande,Rejetée,Guichet,69,F
+D209,Centrale,Tchaoudjo,Sokodé,Adidogomé,Passeport,Voyage,127,29,0.13,2023-10-17,Page pleine,Rejetée,En ligne,18,F
+D210,Kara,Kozah,Kara,Kwé,Livre de famille,Civil,79,39,0.07,2023-09-07,Perte,Rejetée,Guichet,27,M
+D211,Maritime,Golfe,Lomé,Kodjoviakopé,Livre de famille,Civil,159,29,0.05,2023-05-23,Perte,Rejetée,En ligne,51,F
+D212,Kara,Kozah,Kara,Golfe,Passeport,Voyage,23,24,0.13,2023-05-04,Perte,Rejetée,Guichet,39,F
+D213,Maritime,Lacs,Aného,Nyékonakpoé,Casier judiciaire,Judiciaire,28,13,0.11,2023-07-22,Concours,En cours,En ligne,74,F
+D214,Plateaux,Kloto,Kpalimé,Hôpital,Acte de naissance,Civil,77,29,0.07,2023-07-16,Detérioré,En cours,En ligne,72,M
+D215,Centrale,Tchaoudjo,Sokodé,Tokoin,Carte d'identité,Identité,187,14,0.12,2023-03-06,Détérioration,Rejetée,En ligne,49,F
+D216,Plateaux,Kloto,Kpalimé,Bè,Carte d'identité,Identité,170,19,0.01,2023-02-28,Perte,Traitee,Guichet,51,M
+D217,Kara,Binah,Pagouda,Adidogomé,Certificat de nationalité,Identité,158,17,0.04,2023-11-06,Concours,En cours,En ligne,71,F
+D218,Centrale,Tchaoudjo,Sokodé,Golfe,Casier judiciaire,Judiciaire,165,39,0.05,2023-08-21,Voyage,En cours,En ligne,81,F
+D219,Kara,Kozah,Kara,Nyékonakpoé,Livre de famille,Civil,30,25,0.05,2023-11-01,Perte,En cours,Guichet,70,M
+D220,Maritime,Golfe,Adidogomé,Kodjoviakopé,Livre de famille,Civil,147,3,0.03,2023-01-09,Perte,Rejetée,Guichet,47,M
+D221,Kara,Binah,Pagouda,Amoutivé,Livre de famille,Civil,177,26,0.14,2023-02-02,Perte,En cours,Guichet,26,F
+D222,Maritime,Vo,Vogan,Nyékonakpoé,Livre de famille,Civil,90,27,0.12,2023-07-11,Nouveau mariage,Traitee,Guichet,21,F
+D223,Plateaux,Kloto,Kpalimé,Nyékonakpoé,Acte de naissance,Civil,36,33,0.05,2023-06-10,Reconstitution,Rejetée,En ligne,20,M
+D224,Maritime,Zio,Tsévié,Tokoin,Carte d'identité,Identité,19,17,0.07,2023-01-23,Perte,Rejetée,En ligne,23,F
+D225,Centrale,Tchaoudjo,Sokodé,Agoè,Acte de naissance,Civil,96,19,0.06,2023-03-24,Perte,En cours,En ligne,57,F
+D226,Savanes,Oti,Mango,Hôpital,Casier judiciaire,Judiciaire,99,15,0.08,2023-05-21,Emploi,En cours,En ligne,27,F
+D227,Plateaux,Haho,Notsé,Hôpital,Livre de famille,Civil,156,38,0.12,2023-10-13,Détérioration,En cours,En ligne,58,M
+D228,Maritime,Zio,Tsévié,Bè,Casier judiciaire,Judiciaire,20,2,0.01,2023-11-02,Concours,Rejetée,En ligne,53,F
+D229,Maritime,Vo,Vogan,Tokoin,Livre de famille,Civil,56,22,0.06,2023-07-24,Perte,Traitee,Guichet,45,F
+D230,Plateaux,Haho,Notsé,Kodjoviakopé,Casier judiciaire,Judiciaire,39,26,0.12,2023-03-25,Voyage,Rejetée,Guichet,46,M
+D231,Kara,Kozah,Kara,Hedzranawoé,Acte de naissance,Civil,172,33,0.12,2023-07-12,Perte,En cours,En ligne,42,M
+D232,Plateaux,Kloto,Kpalimé,Bè,Livre de famille,Civil,25,44,0.03,2023-11-19,Perte,Traitee,En ligne,85,F
+D233,Kara,Binah,Pagouda,Kwé,Acte de naissance,Civil,90,39,0.02,2023-03-02,Reconstitution,En cours,En ligne,89,F
+D234,Kara,Kozah,Kara,Nyékonakpoé,Casier judiciaire,Judiciaire,105,35,0.12,2023-12-29,Concours,En cours,En ligne,74,F
+D235,Maritime,Golfe,Adidogomé,Kwé,Acte de naissance,Civil,97,10,0.05,2023-11-09,Perte,Rejetée,En ligne,21,M
+D236,Centrale,Sotouboua,Sotouboua,Nyékonakpoé,Passeport,Voyage,177,14,0.04,2023-09-27,Page pleine,Rejetée,Guichet,56,F
+D237,Savanes,Oti,Mango,Hedzranawoé,Carte d'identité,Identité,82,41,0.0,2023-11-12,Vol,Rejetée,En ligne,35,F
+D238,Centrale,Tchaoudjo,Sokodé,Agoè,Livre de famille,Civil,110,15,0.02,2023-11-01,Détérioration,En cours,Guichet,39,M
+D239,Kara,Kozah,Kara,Kodjoviakopé,Passeport,Voyage,192,17,0.01,2023-06-16,Perte,En cours,Guichet,34,F
+D240,Centrale,Tchaoudjo,Sokodé,Kwé,Acte de naissance,Civil,95,26,0.06,2023-06-25,Detérioré,Traitee,En ligne,60,F
+D241,Plateaux,Ogou,Atakpamé,Tokoin,Carte d'identité,Identité,179,31,0.12,2023-06-16,Perte,Rejetée,En ligne,48,F
+D242,Kara,Binah,Pagouda,Kwé,Livre de famille,Civil,146,43,0.0,2023-07-07,Perte,Traitee,Guichet,71,M
+D243,Centrale,Tchaoudjo,Sokodé,Kwé,Casier judiciaire,Judiciaire,52,14,0.15,2023-09-30,Emploi,Rejetée,En ligne,71,M
+D244,Maritime,Zio,Tsévié,Kodjoviakopé,Carte d'identité,Identité,154,24,0.02,2023-10-28,Vol,Rejetée,Guichet,83,F
+D245,Savanes,Oti,Mango,Amoutivé,Certificat de nationalité,Identité,69,42,0.05,2023-02-14,Première demande,En cours,Guichet,38,F
+D246,Savanes,Tône,Dapaong,Agoè,Livre de famille,Civil,155,16,0.01,2023-07-09,Perte,En cours,En ligne,40,M
+D247,Maritime,Zio,Tsévié,Kwé,Carte d'identité,Identité,195,4,0.04,2023-09-06,Détérioration,Rejetée,Guichet,77,M
+D248,Centrale,Sotouboua,Sotouboua,Agoè,Acte de naissance,Civil,192,39,0.04,2023-08-03,Reconstitution,En cours,Guichet,70,M
+D249,Plateaux,Kloto,Kpalimé,Kodjoviakopé,Acte de naissance,Civil,97,11,0.05,2023-09-16,Perte,Rejetée,Guichet,62,F
+D250,Plateaux,Kloto,Kpalimé,Bè,Passeport,Voyage,104,12,0.13,2023-11-13,Perte,Traitee,En ligne,73,M
+D251,Plateaux,Haho,Notsé,Tokoin,Livre de famille,Civil,125,30,0.14,2023-12-15,Perte,En cours,En ligne,67,F
+D252,Centrale,Sotouboua,Sotouboua,Nyékonakpoé,Certificat de nationalité,Identité,138,5,0.01,2023-02-12,Première demande,Traitee,En ligne,22,F
+D253,Kara,Binah,Pagouda,Kodjoviakopé,Carte d'identité,Identité,63,26,0.03,2023-07-06,Expiration,Traitee,En ligne,44,F
+D254,Kara,Binah,Pagouda,Amoutivé,Livre de famille,Civil,143,18,0.06,2023-10-30,Perte,Traitee,Guichet,45,F
+D255,Kara,Kozah,Kara,Kodjoviakopé,Certificat de nationalité,Identité,182,1,0.02,2023-01-14,Concours,En cours,En ligne,76,M
+D256,Centrale,Sotouboua,Sotouboua,Kodjoviakopé,Carte d'identité,Identité,200,5,0.12,2023-02-27,Expiration,En cours,Guichet,59,M
+D257,Kara,Kozah,Kara,Kodjoviakopé,Passeport,Voyage,166,31,0.09,2023-09-13,Perte,Rejetée,Guichet,22,F
+D258,Centrale,Sotouboua,Sotouboua,Nyékonakpoé,Livre de famille,Civil,77,1,0.04,2023-03-09,Perte,Traitee,En ligne,83,F
+D259,Kara,Kozah,Kara,Bè,Livre de famille,Civil,163,15,0.13,2023-04-05,Détérioration,Traitee,Guichet,72,F
+D260,Maritime,Vo,Vogan,Adidogomé,Passeport,Voyage,31,28,0.12,2023-09-30,Page pleine,En cours,Guichet,25,M
+D261,Plateaux,Haho,Notsé,Agoè,Livre de famille,Civil,131,16,0.04,2023-09-30,Détérioration,Traitee,Guichet,85,M
+D262,Maritime,Zio,Tsévié,Amoutivé,Carte d'identité,Identité,95,28,0.01,2023-05-18,Expiration,Traitee,En ligne,79,F
+D263,Plateaux,Haho,Notsé,Nyékonakpoé,Acte de naissance,Civil,176,14,0.11,2023-08-26,Erreur,Traitee,Guichet,46,M
+D264,Centrale,Tchaoudjo,Sokodé,Bè,Certificat de nationalité,Identité,45,43,0.08,2023-08-02,Perte,En cours,Guichet,79,F
+D265,Plateaux,Ogou,Atakpamé,Tokoin,Carte d'identité,Identité,195,5,0.13,2023-05-23,Expiration,En cours,En ligne,73,F
+D266,Savanes,Tône,Dapaong,Hôpital,Certificat de nationalité,Identité,98,11,0.11,2023-11-28,Première demande,Traitee,Guichet,26,F
+D267,Plateaux,Haho,Notsé,Bè,Acte de naissance,Civil,193,17,0.04,2023-09-18,Detérioré,Traitee,Guichet,23,F
+D268,Savanes,Oti,Mango,Golfe,Livre de famille,Civil,185,4,0.13,2023-01-07,Nouveau mariage,Rejetée,Guichet,66,F
+D269,Maritime,Golfe,Adidogomé,Nyékonakpoé,Livre de famille,Civil,67,41,0.15,2023-08-18,Détérioration,En cours,En ligne,27,F
+D270,Kara,Kozah,Kara,Hôpital,Passeport,Voyage,128,32,0.01,2023-09-11,Page pleine,Traitee,En ligne,29,F
+D271,Maritime,Zio,Tsévié,Adidogomé,Carte d'identité,Identité,62,3,0.06,2023-10-15,Vol,En cours,Guichet,64,F
+D272,Plateaux,Haho,Notsé,Amoutivé,Passeport,Voyage,177,38,0.1,2023-10-19,Page pleine,En cours,Guichet,81,F
+D273,Maritime,Lacs,Aného,Agoè,Passeport,Voyage,149,17,0.07,2023-06-16,Page pleine,Rejetée,Guichet,48,F
+D274,Kara,Kozah,Kara,Agoè,Passeport,Voyage,54,28,0.12,2023-12-16,Expiration,Traitee,En ligne,75,M
+D275,Kara,Binah,Pagouda,Adidogomé,Passeport,Voyage,71,43,0.06,2023-01-10,Expiration,Traitee,En ligne,46,F
+D276,Savanes,Tône,Dapaong,Hedzranawoé,Certificat de nationalité,Identité,127,37,0.11,2023-12-28,Perte,Traitee,Guichet,80,F
+D277,Kara,Kozah,Kara,Nyékonakpoé,Passeport,Voyage,106,37,0.04,2023-04-01,Page pleine,Rejetée,En ligne,86,M
+D278,Kara,Kozah,Kara,Amoutivé,Acte de naissance,Civil,13,10,0.03,2023-10-16,Reconstitution,Rejetée,En ligne,48,F
+D279,Maritime,Lacs,Aného,Agoè,Passeport,Voyage,125,3,0.02,2023-04-17,Expiration,Traitee,Guichet,45,M
+D280,Savanes,Tône,Dapaong,Amoutivé,Carte d'identité,Identité,152,5,0.09,2023-11-14,Perte,En cours,Guichet,39,M
+D281,Plateaux,Ogou,Atakpamé,Amoutivé,Acte de naissance,Civil,36,24,0.03,2023-01-16,Detérioré,Traitee,En ligne,78,M
+D282,Savanes,Tône,Dapaong,Hedzranawoé,Livre de famille,Civil,10,44,0.01,2023-12-09,Détérioration,Traitee,En ligne,56,F
+D283,Plateaux,Kloto,Kpalimé,Amoutivé,Casier judiciaire,Judiciaire,107,1,0.11,2023-05-26,Voyage,En cours,Guichet,64,M
+D284,Savanes,Oti,Mango,Kodjoviakopé,Passeport,Voyage,96,36,0.03,2023-02-13,Expiration,Rejetée,Guichet,68,F
+D285,Centrale,Sotouboua,Sotouboua,Hedzranawoé,Carte d'identité,Identité,59,7,0.13,2023-12-11,Vol,En cours,En ligne,26,F
+D286,Maritime,Vo,Vogan,Hedzranawoé,Carte d'identité,Identité,61,11,0.04,2023-12-19,Expiration,En cours,Guichet,90,F
+D287,Maritime,Golfe,Adidogomé,Golfe,Casier judiciaire,Judiciaire,192,19,0.08,2023-12-31,Concours,Traitee,En ligne,30,M
+D288,Savanes,Tône,Dapaong,Amoutivé,Livre de famille,Civil,157,42,0.07,2023-10-03,Nouveau mariage,Rejetée,En ligne,39,M
+D289,Savanes,Oti,Mango,Amoutivé,Livre de famille,Civil,46,41,0.13,2023-09-27,Perte,Traitee,En ligne,44,F
+D290,Kara,Binah,Pagouda,Kodjoviakopé,Passeport,Voyage,181,16,0.03,2023-08-29,Perte,En cours,Guichet,27,F
+D291,Savanes,Oti,Mango,Nyékonakpoé,Livre de famille,Civil,146,14,0.03,2023-06-22,Perte,Traitee,En ligne,60,F
+D292,Plateaux,Ogou,Atakpamé,Bè,Passeport,Voyage,29,38,0.02,2023-04-20,Voyage,En cours,En ligne,22,M
+D293,Plateaux,Ogou,Atakpamé,Tokoin,Casier judiciaire,Judiciaire,56,11,0.01,2023-06-02,Voyage,Traitee,Guichet,90,F
+D294,Centrale,Sotouboua,Sotouboua,Golfe,Casier judiciaire,Judiciaire,88,22,0.07,2023-12-23,Voyage,Traitee,En ligne,37,M
+D295,Kara,Kozah,Kara,Kwé,Acte de naissance,Civil,129,34,0.11,2023-12-15,Perte,Rejetée,Guichet,74,F
+D296,Maritime,Zio,Tsévié,Amoutivé,Livre de famille,Civil,85,6,0.13,2023-02-01,Nouveau mariage,Rejetée,Guichet,39,F
+D297,Kara,Kozah,Kara,Bè,Livre de famille,Civil,76,23,0.12,2023-04-21,Perte,En cours,Guichet,46,F
+D298,Maritime,Lacs,Aného,Nyékonakpoé,Carte d'identité,Identité,70,14,0.11,2023-07-18,Perte,Traitee,En ligne,59,M
+D299,Savanes,Tône,Dapaong,Golfe,Casier judiciaire,Judiciaire,198,19,0.11,2023-10-18,Concours,Traitee,Guichet,68,F
+D300,Savanes,Oti,Mango,Hedzranawoé,Certificat de nationalité,Identité,124,11,0.15,2023-10-11,Concours,Rejetée,En ligne,65,F
+D301,Maritime,Vo,Vogan,Kodjoviakopé,Certificat de nationalité,Identité,187,14,0.09,2023-09-30,Première demande,Traitee,En ligne,54,M
+D302,Savanes,Tône,Dapaong,Kodjoviakopé,Livre de famille,Civil,186,43,0.03,2023-12-20,Nouveau mariage,Rejetée,Guichet,41,F
+D303,Kara,Kozah,Kara,Tokoin,Carte d'identité,Identité,43,37,0.05,2023-07-17,Détérioration,En cours,En ligne,43,F
+D304,Savanes,Tône,Dapaong,Amoutivé,Certificat de nationalité,Identité,173,25,0.11,2023-01-08,Première demande,En cours,Guichet,64,F
+D305,Plateaux,Ogou,Atakpamé,Nyékonakpoé,Casier judiciaire,Judiciaire,179,40,0.03,2023-09-11,Emploi,Traitee,En ligne,54,F
+D306,Plateaux,Ogou,Atakpamé,Hôpital,Casier judiciaire,Judiciaire,152,27,0.12,2023-06-11,Emploi,En cours,Guichet,61,M
+D307,Savanes,Oti,Mango,Amoutivé,Carte d'identité,Identité,50,26,0.07,2023-11-20,Vol,Traitee,En ligne,52,F
+D308,Savanes,Tône,Dapaong,Kodjoviakopé,Acte de naissance,Civil,104,39,0.06,2023-09-18,Erreur,Rejetée,En ligne,63,F
+D309,Centrale,Sotouboua,Sotouboua,Agoè,Casier judiciaire,Judiciaire,150,23,0.1,2023-04-05,Voyage,En cours,En ligne,70,M
+D310,Plateaux,Kloto,Kpalimé,Kwé,Passeport,Voyage,42,11,0.12,2023-06-27,Expiration,En cours,En ligne,46,M
+D311,Plateaux,Kloto,Kpalimé,Agoè,Certificat de nationalité,Identité,60,42,0.04,2023-11-12,Perte,Traitee,Guichet,49,F
+D312,Kara,Kozah,Kara,Golfe,Carte d'identité,Identité,60,18,0.07,2023-01-20,Vol,En cours,En ligne,64,F
+D313,Kara,Binah,Pagouda,Bè,Passeport,Voyage,66,17,0.09,2023-11-10,Expiration,Traitee,Guichet,90,M
+D314,Centrale,Sotouboua,Sotouboua,Nyékonakpoé,Livre de famille,Civil,109,21,0.02,2023-05-13,Détérioration,Traitee,Guichet,44,F
+D315,Centrale,Tchaoudjo,Sokodé,Tokoin,Acte de naissance,Civil,28,27,0.06,2023-10-29,Erreur,Rejetée,Guichet,24,M
+D316,Savanes,Oti,Mango,Nyékonakpoé,Passeport,Voyage,85,19,0.09,2023-01-10,Perte,Rejetée,Guichet,46,M
+D317,Centrale,Sotouboua,Sotouboua,Bè,Livre de famille,Civil,70,32,0.07,2023-10-21,Nouveau mariage,Traitee,Guichet,36,F
+D318,Centrale,Sotouboua,Sotouboua,Kodjoviakopé,Carte d'identité,Identité,105,29,0.03,2023-11-12,Première demande,Rejetée,Guichet,49,M
+D319,Savanes,Oti,Mango,Amoutivé,Carte d'identité,Identité,142,5,0.04,2023-11-12,Détérioration,En cours,Guichet,67,F
+D320,Plateaux,Haho,Notsé,Agoè,Carte d'identité,Identité,166,1,0.01,2023-07-08,Expiration,Traitee,Guichet,52,F
+D321,Maritime,Lacs,Aného,Amoutivé,Passeport,Voyage,161,12,0.05,2023-08-06,Voyage,Rejetée,Guichet,19,M
+D322,Savanes,Tône,Dapaong,Bè,Livre de famille,Civil,45,5,0.09,2023-11-05,Détérioration,Traitee,En ligne,81,M
+D323,Plateaux,Ogou,Atakpamé,Nyékonakpoé,Acte de naissance,Civil,41,12,0.01,2023-06-11,Reconstitution,Traitee,Guichet,50,M
+D324,Maritime,Lacs,Aného,Nyékonakpoé,Casier judiciaire,Judiciaire,132,44,0.09,2023-10-18,Voyage,Traitee,En ligne,21,F
+D325,Plateaux,Haho,Notsé,Adidogomé,Carte d'identité,Identité,156,26,0.02,2023-04-06,Vol,Rejetée,En ligne,76,F
+D326,Kara,Kozah,Kara,Kwé,Certificat de nationalité,Identité,97,24,0.12,2023-10-06,Perte,Rejetée,En ligne,86,M
+D327,Plateaux,Haho,Notsé,Adidogomé,Carte d'identité,Identité,43,34,0.05,2023-06-12,Première demande,Traitee,Guichet,78,F
+D328,Plateaux,Kloto,Kpalimé,Tokoin,Carte d'identité,Identité,101,34,0.01,2023-06-17,Détérioration,Rejetée,Guichet,42,M
+D329,Savanes,Oti,Mango,Tokoin,Carte d'identité,Identité,68,26,0.08,2023-07-25,Première demande,Traitee,Guichet,46,M
+D330,Maritime,Vo,Vogan,Amoutivé,Livre de famille,Civil,130,23,0.08,2023-12-14,Perte,Traitee,Guichet,28,M
+D331,Centrale,Tchaoudjo,Sokodé,Adidogomé,Livre de famille,Civil,185,31,0.12,2023-01-21,Détérioration,Traitee,En ligne,66,F
+D332,Plateaux,Ogou,Atakpamé,Bè,Certificat de nationalité,Identité,63,42,0.03,2023-05-15,Première demande,Rejetée,Guichet,56,M
+D333,Savanes,Oti,Mango,Kwé,Livre de famille,Civil,168,32,0.14,2023-03-31,Détérioration,Traitee,Guichet,46,M
+D334,Savanes,Oti,Mango,Adidogomé,Livre de famille,Civil,125,32,0.07,2023-01-03,Perte,Traitee,Guichet,44,M
+D335,Kara,Kozah,Kara,Golfe,Livre de famille,Civil,120,43,0.12,2023-07-22,Perte,Rejetée,En ligne,45,M
+D336,Centrale,Tchaoudjo,Sokodé,Agoè,Acte de naissance,Civil,141,18,0.1,2023-09-19,Reconstitution,En cours,En ligne,20,M
+D337,Plateaux,Kloto,Kpalimé,Hedzranawoé,Acte de naissance,Civil,137,5,0.14,2023-06-16,Perte,Rejetée,En ligne,38,M
+D338,Kara,Binah,Pagouda,Adidogomé,Livre de famille,Civil,197,20,0.1,2023-07-09,Détérioration,Rejetée,Guichet,59,F
+D339,Plateaux,Kloto,Kpalimé,Kwé,Carte d'identité,Identité,149,13,0.07,2023-09-02,Vol,Traitee,En ligne,65,M
+D340,Savanes,Oti,Mango,Kodjoviakopé,Carte d'identité,Identité,22,2,0.06,2023-07-04,Première demande,Rejetée,En ligne,61,F
+D341,Centrale,Sotouboua,Sotouboua,Adidogomé,Carte d'identité,Identité,193,40,0.1,2023-02-09,Expiration,Traitee,Guichet,52,F
+D342,Centrale,Sotouboua,Sotouboua,Agoè,Carte d'identité,Identité,145,45,0.11,2023-08-11,Vol,En cours,En ligne,66,M
+D343,Plateaux,Haho,Notsé,Kodjoviakopé,Acte de naissance,Civil,81,36,0.14,2023-11-27,Detérioré,En cours,En ligne,56,M
+D344,Kara,Binah,Pagouda,Amoutivé,Acte de naissance,Civil,176,13,0.15,2023-01-17,Perte,Rejetée,En ligne,72,M
+D345,Kara,Binah,Pagouda,Adidogomé,Certificat de nationalité,Identité,199,43,0.01,2023-04-08,Première demande,En cours,Guichet,41,F
+D346,Centrale,Tchaoudjo,Sokodé,Kwé,Casier judiciaire,Judiciaire,116,10,0.01,2023-05-17,Voyage,En cours,Guichet,68,M
+D347,Centrale,Tchaoudjo,Sokodé,Kwé,Passeport,Voyage,50,16,0.1,2023-08-22,Expiration,Traitee,Guichet,34,F
+D348,Centrale,Sotouboua,Sotouboua,Bè,Certificat de nationalité,Identité,88,16,0.07,2023-08-30,Perte,Traitee,En ligne,45,F
+D349,Centrale,Tchaoudjo,Sokodé,Hedzranawoé,Carte d'identité,Identité,45,18,0.08,2023-05-27,Détérioration,En cours,En ligne,33,M
+D350,Kara,Kozah,Kara,Bè,Livre de famille,Civil,15,33,0.01,2023-08-14,Nouveau mariage,Traitee,En ligne,80,F
+D351,Maritime,Vo,Vogan,Kodjoviakopé,Livre de famille,Civil,103,6,0.08,2023-06-21,Nouveau mariage,Traitee,En ligne,75,F
+D352,Savanes,Oti,Mango,Kwé,Livre de famille,Civil,147,4,0.13,2023-09-01,Détérioration,Rejetée,En ligne,75,F
+D353,Kara,Kozah,Kara,Tokoin,Acte de naissance,Civil,114,6,0.08,2023-02-06,Perte,Traitee,Guichet,89,F
+D354,Centrale,Tchaoudjo,Sokodé,Kodjoviakopé,Certificat de nationalité,Identité,99,21,0.03,2023-05-28,Première demande,Rejetée,En ligne,45,M
+D355,Savanes,Oti,Mango,Kodjoviakopé,Passeport,Voyage,38,26,0.11,2023-02-11,Voyage,Traitee,En ligne,64,F
+D356,Plateaux,Ogou,Atakpamé,Kwé,Certificat de nationalité,Identité,101,14,0.08,2023-01-16,Première demande,En cours,En ligne,34,M
+D357,Centrale,Tchaoudjo,Sokodé,Nyékonakpoé,Certificat de nationalité,Identité,89,43,0.02,2023-04-05,Perte,Rejetée,Guichet,22,M
+D358,Centrale,Tchaoudjo,Sokodé,Hôpital,Carte d'identité,Identité,32,24,0.07,2023-05-11,Vol,Traitee,En ligne,80,M
+D359,Centrale,Tchaoudjo,Sokodé,Tokoin,Livre de famille,Civil,166,19,0.1,2023-01-13,Détérioration,Traitee,Guichet,31,F
+D360,Centrale,Sotouboua,Sotouboua,Kwé,Casier judiciaire,Judiciaire,172,16,0.09,2023-07-26,Emploi,En cours,Guichet,66,F
+D361,Maritime,Vo,Vogan,Hedzranawoé,Livre de famille,Civil,12,17,0.14,2023-07-20,Nouveau mariage,En cours,Guichet,56,M
+D362,Maritime,Zio,Tsévié,Amoutivé,Passeport,Voyage,136,3,0.05,2023-02-08,Page pleine,Traitee,En ligne,90,M
+D363,Plateaux,Ogou,Atakpamé,Nyékonakpoé,Carte d'identité,Identité,10,4,0.07,2023-10-27,Détérioration,Rejetée,En ligne,45,M
+D364,Plateaux,Haho,Notsé,Kodjoviakopé,Certificat de nationalité,Identité,93,13,0.05,2023-12-15,Concours,Traitee,En ligne,48,M
+D365,Kara,Binah,Pagouda,Hôpital,Casier judiciaire,Judiciaire,55,40,0.09,2023-10-10,Emploi,Traitee,En ligne,33,M
+D366,Kara,Kozah,Kara,Golfe,Certificat de nationalité,Identité,16,36,0.05,2023-01-14,Concours,En cours,Guichet,38,M
+D367,Plateaux,Kloto,Kpalimé,Kwé,Certificat de nationalité,Identité,196,13,0.11,2023-05-03,Concours,Rejetée,En ligne,66,F
+D368,Savanes,Oti,Mango,Tokoin,Casier judiciaire,Judiciaire,71,43,0.12,2023-11-09,Voyage,Traitee,En ligne,34,M
+D369,Maritime,Golfe,Bè,Adidogomé,Livre de famille,Civil,114,42,0.14,2023-06-28,Détérioration,Traitee,Guichet,78,M
+D370,Plateaux,Haho,Notsé,Agoè,Casier judiciaire,Judiciaire,79,34,0.05,2023-07-26,Emploi,Traitee,En ligne,42,F
+D371,Maritime,Zio,Tsévié,Tokoin,Casier judiciaire,Judiciaire,127,30,0.07,2023-02-07,Voyage,Rejetée,En ligne,38,F
+D372,Kara,Kozah,Kara,Hôpital,Carte d'identité,Identité,84,26,0.08,2023-07-30,Perte,Rejetée,En ligne,55,M
+D373,Savanes,Oti,Mango,Hedzranawoé,Casier judiciaire,Judiciaire,23,16,0.1,2023-05-17,Voyage,Rejetée,En ligne,38,M
+D374,Kara,Kozah,Kara,Amoutivé,Certificat de nationalité,Identité,135,45,0.08,2023-01-04,Première demande,Rejetée,Guichet,30,F
+D375,Maritime,Golfe,Tokoin,Bè,Casier judiciaire,Judiciaire,165,43,0.04,2023-10-02,Emploi,Rejetée,Guichet,29,M
+D376,Plateaux,Haho,Notsé,Agoè,Passeport,Voyage,49,32,0.07,2023-02-18,Perte,Rejetée,Guichet,48,M
+D377,Maritime,Zio,Tsévié,Hôpital,Passeport,Voyage,141,5,0.03,2023-12-26,Voyage,Rejetée,Guichet,23,M
+D378,Kara,Kozah,Kara,Golfe,Casier judiciaire,Judiciaire,156,39,0.03,2023-06-09,Voyage,Rejetée,En ligne,56,F
+D379,Centrale,Tchaoudjo,Sokodé,Kwé,Livre de famille,Civil,49,10,0.09,2023-12-09,Perte,Rejetée,Guichet,60,F
+D380,Maritime,Zio,Tsévié,Adidogomé,Casier judiciaire,Judiciaire,135,1,0.07,2023-03-20,Voyage,En cours,Guichet,25,F
+D381,Kara,Binah,Pagouda,Amoutivé,Acte de naissance,Civil,186,22,0.04,2023-10-16,Erreur,Rejetée,Guichet,34,M
+D382,Centrale,Sotouboua,Sotouboua,Kodjoviakopé,Carte d'identité,Identité,123,19,0.04,2023-11-15,Vol,En cours,Guichet,54,M
+D383,Kara,Kozah,Kara,Nyékonakpoé,Certificat de nationalité,Identité,174,3,0.04,2023-04-08,Concours,En cours,En ligne,40,F
+D384,Maritime,Zio,Tsévié,Adidogomé,Passeport,Voyage,33,21,0.09,2023-06-18,Perte,Traitee,Guichet,46,M
+D385,Kara,Binah,Pagouda,Adidogomé,Passeport,Voyage,186,28,0.05,2023-03-17,Voyage,En cours,Guichet,60,M
+D386,Plateaux,Kloto,Kpalimé,Kodjoviakopé,Passeport,Voyage,26,20,0.07,2023-11-06,Voyage,Traitee,Guichet,35,M
+D387,Kara,Kozah,Kara,Kodjoviakopé,Acte de naissance,Civil,57,41,0.09,2023-05-28,Reconstitution,Rejetée,Guichet,38,F
+D388,Kara,Binah,Pagouda,Agoè,Certificat de nationalité,Identité,75,9,0.15,2023-08-24,Perte,En cours,En ligne,42,F
+D389,Centrale,Tchaoudjo,Sokodé,Tokoin,Acte de naissance,Civil,47,5,0.08,2023-10-02,Perte,Rejetée,Guichet,78,M
+D390,Plateaux,Ogou,Atakpamé,Adidogomé,Livre de famille,Civil,26,40,0.12,2023-11-06,Nouveau mariage,En cours,En ligne,55,M
+D391,Kara,Kozah,Kara,Agoè,Certificat de nationalité,Identité,74,15,0.09,2023-05-24,Première demande,Rejetée,En ligne,52,F
+D392,Plateaux,Kloto,Kpalimé,Hôpital,Carte d'identité,Identité,138,36,0.04,2023-05-25,Expiration,Traitee,Guichet,52,F
+D393,Kara,Binah,Pagouda,Golfe,Carte d'identité,Identité,130,7,0.14,2023-12-26,Perte,Rejetée,Guichet,66,M
+D394,Savanes,Oti,Mango,Nyékonakpoé,Casier judiciaire,Judiciaire,49,1,0.02,2023-08-04,Emploi,Traitee,Guichet,57,M
+D395,Maritime,Golfe,Tokoin,Amoutivé,Certificat de nationalité,Identité,172,4,0.08,2023-03-30,Première demande,Traitee,En ligne,51,F
+D396,Centrale,Sotouboua,Sotouboua,Kwé,Acte de naissance,Civil,114,36,0.13,2023-12-19,Detérioré,Rejetée,Guichet,30,F
+D397,Plateaux,Ogou,Atakpamé,Hedzranawoé,Passeport,Voyage,139,12,0.03,2023-06-11,Page pleine,En cours,Guichet,30,F
+D398,Plateaux,Kloto,Kpalimé,Nyékonakpoé,Casier judiciaire,Judiciaire,188,13,0.12,2023-08-21,Emploi,Traitee,Guichet,59,F
+D399,Maritime,Vo,Vogan,Agoè,Livre de famille,Civil,161,16,0.01,2023-08-13,Détérioration,Traitee,En ligne,40,F
+D400,Kara,Kozah,Kara,Hôpital,Passeport,Voyage,110,35,0.02,2023-10-07,Perte,En cours,Guichet,19,F
+D401,Kara,Kozah,Kara,Nyékonakpoé,Passeport,Voyage,193,5,0.01,2023-10-28,Voyage,Traitee,Guichet,80,M
+D402,Centrale,Tchaoudjo,Sokodé,Hedzranawoé,Carte d'identité,Identité,49,34,0.02,2023-01-15,Vol,En cours,Guichet,35,M
+D403,Centrale,Sotouboua,Sotouboua,Tokoin,Acte de naissance,Civil,133,7,0.06,2023-01-03,Detérioré,En cours,Guichet,56,F
+D404,Centrale,Tchaoudjo,Sokodé,Nyékonakpoé,Certificat de nationalité,Identité,126,5,0.04,2023-05-14,Concours,Traitee,Guichet,80,F
+D405,Plateaux,Ogou,Atakpamé,Adidogomé,Acte de naissance,Civil,186,3,0.04,2023-05-26,Detérioré,Rejetée,En ligne,22,F
+D406,Kara,Binah,Pagouda,Nyékonakpoé,Passeport,Voyage,160,33,0.02,2023-06-21,Perte,Rejetée,Guichet,68,F
+D407,Savanes,Oti,Mango,Kwé,Livre de famille,Civil,173,45,0.13,2023-08-18,Perte,Rejetée,Guichet,39,F
+D408,Plateaux,Ogou,Atakpamé,Bè,Passeport,Voyage,171,43,0.13,2023-09-12,Expiration,Rejetée,En ligne,43,F
+D409,Centrale,Tchaoudjo,Sokodé,Adidogomé,Livre de famille,Civil,137,8,0.09,2023-02-25,Perte,En cours,En ligne,38,F
+D410,Plateaux,Haho,Notsé,Hedzranawoé,Passeport,Voyage,65,16,0.08,2023-06-22,Voyage,En cours,Guichet,85,M
+D411,Plateaux,Ogou,Atakpamé,Adidogomé,Certificat de nationalité,Identité,23,29,0.04,2023-01-13,Concours,Rejetée,Guichet,21,F
+D412,Centrale,Sotouboua,Sotouboua,Hôpital,Carte d'identité,Identité,152,16,0.05,2023-01-14,Expiration,En cours,Guichet,38,M
+D413,Plateaux,Haho,Notsé,Nyékonakpoé,Carte d'identité,Identité,124,19,0.14,2023-04-21,Vol,Traitee,Guichet,31,F
+D414,Maritime,Zio,Tsévié,Amoutivé,Livre de famille,Civil,131,12,0.01,2023-02-19,Perte,Rejetée,Guichet,87,F
+D415,Maritime,Vo,Vogan,Amoutivé,Certificat de nationalité,Identité,174,36,0.02,2023-06-25,Concours,En cours,Guichet,76,F
+D416,Savanes,Oti,Mango,Tokoin,Passeport,Voyage,18,7,0.13,2023-01-18,Perte,Traitee,En ligne,72,M
+D417,Kara,Binah,Pagouda,Agoè,Certificat de nationalité,Identité,75,45,0.05,2023-11-03,Perte,En cours,En ligne,56,F
+D418,Centrale,Tchaoudjo,Sokodé,Golfe,Livre de famille,Civil,74,7,0.14,2023-12-05,Perte,Rejetée,Guichet,75,F
+D419,Plateaux,Ogou,Atakpamé,Adidogomé,Carte d'identité,Identité,52,5,0.05,2023-08-18,Détérioration,Traitee,Guichet,39,M
+D420,Plateaux,Haho,Notsé,Nyékonakpoé,Carte d'identité,Identité,179,23,0.03,2023-09-15,Perte,En cours,Guichet,67,M
+D421,Maritime,Vo,Vogan,Adidogomé,Acte de naissance,Civil,35,8,0.02,2023-11-22,Reconstitution,Traitee,En ligne,35,F
+D422,Plateaux,Ogou,Atakpamé,Kodjoviakopé,Livre de famille,Civil,145,44,0.14,2023-05-21,Perte,En cours,Guichet,87,F
+D423,Plateaux,Ogou,Atakpamé,Golfe,Livre de famille,Civil,32,7,0.01,2023-01-30,Nouveau mariage,Traitee,Guichet,73,M
+D424,Plateaux,Ogou,Atakpamé,Hôpital,Certificat de nationalité,Identité,176,26,0.06,2023-11-27,Concours,En cours,En ligne,46,F
+D425,Plateaux,Ogou,Atakpamé,Amoutivé,Carte d'identité,Identité,199,38,0.03,2023-04-30,Première demande,Rejetée,En ligne,58,M
+D426,Savanes,Tône,Dapaong,Nyékonakpoé,Casier judiciaire,Judiciaire,187,26,0.11,2023-11-21,Voyage,En cours,En ligne,90,F
+D427,Centrale,Sotouboua,Sotouboua,Agoè,Passeport,Voyage,197,7,0.05,2023-01-02,Expiration,Rejetée,Guichet,64,F
+D428,Savanes,Oti,Mango,Golfe,Certificat de nationalité,Identité,128,14,0.01,2023-03-28,Concours,Traitee,Guichet,70,M
+D429,Savanes,Tône,Dapaong,Amoutivé,Casier judiciaire,Judiciaire,110,26,0.01,2023-02-20,Concours,Traitee,En ligne,32,M
+D430,Plateaux,Haho,Notsé,Hôpital,Certificat de nationalité,Identité,77,44,0.09,2023-06-14,Perte,Traitee,Guichet,42,M
+D431,Kara,Binah,Pagouda,Adidogomé,Acte de naissance,Civil,62,36,0.08,2023-04-04,Reconstitution,Traitee,En ligne,26,F
+D432,Maritime,Golfe,Bè,Hedzranawoé,Casier judiciaire,Judiciaire,89,43,0.13,2023-08-28,Voyage,Traitee,Guichet,24,F
+D433,Plateaux,Haho,Notsé,Amoutivé,Passeport,Voyage,13,39,0.04,2023-02-21,Expiration,En cours,Guichet,30,M
+D434,Maritime,Golfe,Bè,Nyékonakpoé,Carte d'identité,Identité,116,9,0.06,2023-04-25,Perte,Rejetée,En ligne,31,F
+D435,Savanes,Oti,Mango,Golfe,Acte de naissance,Civil,136,30,0.13,2023-07-11,Erreur,Traitee,En ligne,70,M
+D436,Maritime,Lacs,Aného,Golfe,Passeport,Voyage,151,45,0.1,2023-03-07,Perte,En cours,Guichet,69,M
+D437,Kara,Binah,Pagouda,Kodjoviakopé,Certificat de nationalité,Identité,191,1,0.15,2023-08-24,Perte,Rejetée,En ligne,78,F
+D438,Centrale,Tchaoudjo,Sokodé,Kwé,Acte de naissance,Civil,18,4,0.11,2023-09-04,Detérioré,Traitee,Guichet,67,M
+D439,Centrale,Sotouboua,Sotouboua,Hôpital,Passeport,Voyage,173,31,0.11,2023-01-27,Expiration,Traitee,En ligne,78,F
+D440,Kara,Binah,Pagouda,Nyékonakpoé,Livre de famille,Civil,88,37,0.1,2023-11-08,Détérioration,En cours,En ligne,33,M
+D441,Maritime,Lacs,Aného,Hôpital,Livre de famille,Civil,80,14,0.03,2023-10-30,Détérioration,En cours,Guichet,41,M
+D442,Centrale,Sotouboua,Sotouboua,Amoutivé,Passeport,Voyage,121,40,0.09,2023-03-27,Perte,Rejetée,En ligne,80,F
+D443,Centrale,Tchaoudjo,Sokodé,Tokoin,Carte d'identité,Identité,92,6,0.04,2023-07-24,Vol,Traitee,En ligne,62,M
+D444,Plateaux,Kloto,Kpalimé,Hedzranawoé,Certificat de nationalité,Identité,119,14,0.12,2023-01-09,Perte,Traitee,Guichet,70,F
+D445,Savanes,Tône,Dapaong,Agoè,Certificat de nationalité,Identité,106,9,0.05,2023-06-11,Concours,Rejetée,En ligne,23,M
+D446,Plateaux,Kloto,Kpalimé,Adidogomé,Certificat de nationalité,Identité,141,34,0.13,2023-10-17,Première demande,Rejetée,En ligne,72,M
+D447,Savanes,Oti,Mango,Kwé,Passeport,Voyage,114,31,0.05,2023-07-19,Perte,En cours,En ligne,62,F
+D448,Plateaux,Haho,Notsé,Tokoin,Certificat de nationalité,Identité,21,38,0.01,2023-11-16,Perte,Traitee,Guichet,30,F
+D449,Maritime,Golfe,Bè,Nyékonakpoé,Carte d'identité,Identité,160,25,0.03,2023-11-08,Perte,Traitee,En ligne,60,M
+D450,Plateaux,Kloto,Kpalimé,Hedzranawoé,Casier judiciaire,Judiciaire,166,24,0.07,2023-01-22,Voyage,Traitee,En ligne,22,F
+D451,Kara,Kozah,Kara,Amoutivé,Acte de naissance,Civil,152,38,0.03,2023-08-07,Detérioré,Traitee,Guichet,52,M
+D452,Kara,Binah,Pagouda,Nyékonakpoé,Carte d'identité,Identité,107,15,0.09,2023-06-22,Première demande,Traitee,En ligne,70,M
+D453,Savanes,Oti,Mango,Adidogomé,Passeport,Voyage,182,3,0.1,2023-03-18,Page pleine,Traitee,En ligne,21,M
+D454,Kara,Binah,Pagouda,Golfe,Casier judiciaire,Judiciaire,169,5,0.01,2023-11-29,Emploi,Rejetée,En ligne,39,F
+D455,Maritime,Golfe,Adidogomé,Golfe,Certificat de nationalité,Identité,163,22,0.13,2023-10-01,Concours,En cours,Guichet,52,F
+D456,Plateaux,Kloto,Kpalimé,Kodjoviakopé,Acte de naissance,Civil,189,4,0.14,2023-09-18,Erreur,En cours,En ligne,72,F
+D457,Centrale,Tchaoudjo,Sokodé,Golfe,Certificat de nationalité,Identité,121,25,0.13,2023-07-14,Première demande,Traitee,En ligne,55,M
+D458,Maritime,Vo,Vogan,Amoutivé,Certificat de nationalité,Identité,110,38,0.1,2023-07-07,Concours,Traitee,En ligne,49,F
+D459,Plateaux,Haho,Notsé,Adidogomé,Casier judiciaire,Judiciaire,49,43,0.04,2023-09-19,Concours,En cours,Guichet,25,F
+D460,Centrale,Sotouboua,Sotouboua,Kwé,Acte de naissance,Civil,45,12,0.08,2023-06-18,Reconstitution,Traitee,Guichet,68,F
+D461,Plateaux,Kloto,Kpalimé,Kodjoviakopé,Livre de famille,Civil,71,39,0.05,2023-04-19,Perte,En cours,En ligne,62,F
+D462,Savanes,Oti,Mango,Adidogomé,Acte de naissance,Civil,40,19,0.12,2023-06-27,Perte,Traitee,Guichet,71,F
+D463,Centrale,Sotouboua,Sotouboua,Nyékonakpoé,Carte d'identité,Identité,80,27,0.08,2023-01-10,Détérioration,En cours,En ligne,69,F
+D464,Savanes,Oti,Mango,Agoè,Certificat de nationalité,Identité,81,34,0.13,2023-03-04,Perte,Traitee,Guichet,22,M
+D465,Centrale,Tchaoudjo,Sokodé,Amoutivé,Certificat de nationalité,Identité,96,10,0.11,2023-02-26,Première demande,Traitee,Guichet,90,F
+D466,Savanes,Tône,Dapaong,Amoutivé,Certificat de nationalité,Identité,39,28,0.12,2023-12-08,Concours,Rejetée,En ligne,85,M
+D467,Savanes,Oti,Mango,Bè,Casier judiciaire,Judiciaire,66,19,0.09,2023-12-11,Voyage,En cours,Guichet,84,M
+D468,Savanes,Tône,Dapaong,Amoutivé,Casier judiciaire,Judiciaire,31,33,0.02,2023-04-21,Emploi,Traitee,Guichet,68,M
+D469,Savanes,Tône,Dapaong,Adidogomé,Certificat de nationalité,Identité,112,23,0.01,2023-01-15,Concours,Rejetée,Guichet,66,F
+D470,Plateaux,Kloto,Kpalimé,Hôpital,Carte d'identité,Identité,140,19,0.13,2023-12-20,Perte,Rejetée,En ligne,82,F
+D471,Kara,Binah,Pagouda,Adidogomé,Livre de famille,Civil,186,12,0.05,2023-01-08,Nouveau mariage,Rejetée,En ligne,36,F
+D472,Centrale,Sotouboua,Sotouboua,Amoutivé,Acte de naissance,Civil,115,39,0.07,2023-05-11,Perte,Rejetée,Guichet,83,F
+D473,Savanes,Tône,Dapaong,Golfe,Livre de famille,Civil,51,29,0.11,2023-08-08,Perte,Traitee,En ligne,52,M
+D474,Savanes,Tône,Dapaong,Kodjoviakopé,Acte de naissance,Civil,50,3,0.07,2023-11-01,Erreur,En cours,Guichet,41,F
+D475,Savanes,Tône,Dapaong,Amoutivé,Passeport,Voyage,198,18,0.1,2023-12-06,Perte,En cours,En ligne,40,M
+D476,Centrale,Sotouboua,Sotouboua,Amoutivé,Acte de naissance,Civil,67,9,0.04,2023-04-14,Reconstitution,Traitee,Guichet,67,F
+D477,Plateaux,Haho,Notsé,Nyékonakpoé,Casier judiciaire,Judiciaire,179,17,0.1,2023-02-02,Voyage,Traitee,En ligne,71,F
+D478,Centrale,Sotouboua,Sotouboua,Hedzranawoé,Certificat de nationalité,Identité,160,20,0.11,2023-05-28,Première demande,En cours,Guichet,24,F
+D479,Savanes,Oti,Mango,Bè,Passeport,Voyage,73,14,0.03,2023-06-07,Voyage,Traitee,En ligne,20,M
+D480,Savanes,Tône,Dapaong,Bè,Livre de famille,Civil,90,44,0.05,2023-01-12,Détérioration,Rejetée,En ligne,79,M
+D481,Kara,Binah,Pagouda,Adidogomé,Livre de famille,Civil,116,16,0.11,2023-04-18,Perte,En cours,En ligne,81,F
+D482,Maritime,Zio,Tsévié,Kodjoviakopé,Carte d'identité,Identité,19,15,0.0,2023-06-09,Première demande,Traitee,En ligne,18,F
+D483,Maritime,Vo,Vogan,Agoè,Carte d'identité,Identité,189,20,0.06,2023-10-03,Première demande,Rejetée,En ligne,90,F
+D484,Maritime,Vo,Vogan,Agoè,Livre de famille,Civil,24,8,0.12,2023-05-27,Nouveau mariage,Rejetée,En ligne,18,M
+D485,Savanes,Tône,Dapaong,Adidogomé,Livre de famille,Civil,23,21,0.11,2023-05-09,Perte,Traitee,Guichet,68,F
+D486,Savanes,Oti,Mango,Amoutivé,Acte de naissance,Civil,174,31,0.08,2023-05-14,Erreur,En cours,Guichet,36,M
+D487,Centrale,Tchaoudjo,Sokodé,Bè,Casier judiciaire,Judiciaire,118,5,0.02,2023-07-28,Concours,Rejetée,Guichet,90,M
+D488,Maritime,Lacs,Aného,Hôpital,Livre de famille,Civil,116,19,0.13,2023-10-20,Perte,En cours,En ligne,70,F
+D489,Maritime,Vo,Vogan,Agoè,Livre de famille,Civil,115,28,0.03,2023-07-30,Perte,Rejetée,En ligne,72,M
+D490,Centrale,Tchaoudjo,Sokodé,Amoutivé,Passeport,Voyage,161,26,0.0,2023-08-06,Voyage,Rejetée,En ligne,26,F
+D491,Kara,Kozah,Kara,Golfe,Passeport,Voyage,172,25,0.0,2023-05-26,Expiration,Traitee,En ligne,77,F
+D492,Centrale,Sotouboua,Sotouboua,Kwé,Livre de famille,Civil,152,16,0.13,2023-09-09,Nouveau mariage,En cours,Guichet,49,M
+D493,Kara,Kozah,Kara,Kwé,Acte de naissance,Civil,95,37,0.07,2023-12-07,Detérioré,En cours,En ligne,40,F
+D494,Plateaux,Haho,Notsé,Hôpital,Certificat de nationalité,Identité,16,33,0.04,2023-07-20,Perte,Rejetée,En ligne,71,M
+D495,Savanes,Oti,Mango,Agoè,Acte de naissance,Civil,120,30,0.09,2023-02-13,Erreur,Rejetée,Guichet,90,M
+D496,Kara,Kozah,Kara,Amoutivé,Carte d'identité,Identité,110,21,0.09,2023-10-11,Expiration,Traitee,En ligne,38,F
+D497,Savanes,Tône,Dapaong,Nyékonakpoé,Livre de famille,Civil,65,35,0.05,2023-01-05,Nouveau mariage,En cours,En ligne,30,M
+D498,Kara,Binah,Pagouda,Tokoin,Acte de naissance,Civil,101,39,0.01,2023-07-19,Erreur,En cours,En ligne,70,F
+D499,Plateaux,Ogou,Atakpamé,Golfe,Casier judiciaire,Judiciaire,26,13,0.09,2023-05-18,Voyage,Rejetée,En ligne,33,M
+D500,Maritime,Golfe,Tokoin,Kodjoviakopé,Certificat de nationalité,Identité,77,32,0.14,2023-04-16,Première demande,Traitee,Guichet,23,F
+D501,Kara,Kozah,Kara,Hôpital,Carte d'identité,Identité,160,3,0.15,2023-08-13,Première demande,Rejetée,En ligne,56,F
+D502,Savanes,Tône,Dapaong,Hedzranawoé,Casier judiciaire,Judiciaire,158,20,0.13,2023-03-10,Emploi,En cours,En ligne,85,M
+D503,Centrale,Tchaoudjo,Sokodé,Bè,Certificat de nationalité,Identité,30,34,0.04,2023-02-13,Première demande,Traitee,En ligne,72,F
+D504,Plateaux,Haho,Notsé,Bè,Carte d'identité,Identité,76,34,0.01,2023-09-27,Expiration,Traitee,En ligne,25,F
+D505,Centrale,Sotouboua,Sotouboua,Adidogomé,Casier judiciaire,Judiciaire,144,21,0.08,2023-04-07,Concours,Rejetée,Guichet,54,M
+D506,Kara,Kozah,Kara,Hôpital,Casier judiciaire,Judiciaire,16,8,0.14,2023-04-04,Voyage,Rejetée,Guichet,86,M
+D507,Maritime,Zio,Tsévié,Hedzranawoé,Acte de naissance,Civil,113,39,0.02,2023-03-10,Reconstitution,En cours,En ligne,39,F
+D508,Savanes,Tône,Dapaong,Hedzranawoé,Carte d'identité,Identité,173,21,0.04,2023-09-02,Perte,Traitee,Guichet,24,M
+D509,Centrale,Tchaoudjo,Sokodé,Bè,Acte de naissance,Civil,42,7,0.07,2023-04-06,Perte,Rejetée,En ligne,57,F
+D510,Kara,Binah,Pagouda,Golfe,Certificat de nationalité,Identité,73,11,0.05,2023-09-28,Perte,Traitee,En ligne,22,F
+D511,Centrale,Sotouboua,Sotouboua,Kodjoviakopé,Acte de naissance,Civil,116,36,0.13,2023-11-29,Reconstitution,Traitee,En ligne,58,M
+D512,Plateaux,Haho,Notsé,Adidogomé,Livre de famille,Civil,193,14,0.02,2023-06-03,Détérioration,Rejetée,En ligne,70,F
+D513,Maritime,Lacs,Aného,Tokoin,Livre de famille,Civil,165,2,0.13,2023-07-10,Détérioration,Rejetée,Guichet,52,M
+D514,Centrale,Sotouboua,Sotouboua,Amoutivé,Passeport,Voyage,164,28,0.1,2023-10-18,Voyage,En cours,En ligne,62,F
+D515,Kara,Kozah,Kara,Bè,Carte d'identité,Identité,24,40,0.03,2023-12-22,Perte,Traitee,En ligne,46,F
+D516,Maritime,Zio,Tsévié,Adidogomé,Passeport,Voyage,146,25,0.09,2023-10-06,Perte,Traitee,En ligne,34,F
+D517,Maritime,Golfe,Tokoin,Kwé,Acte de naissance,Civil,15,9,0.04,2023-12-05,Erreur,Rejetée,En ligne,45,M
+D518,Kara,Binah,Pagouda,Kwé,Livre de famille,Civil,123,27,0.07,2023-06-01,Détérioration,Rejetée,Guichet,85,M
+D519,Kara,Kozah,Kara,Hedzranawoé,Passeport,Voyage,101,22,0.1,2023-05-10,Page pleine,En cours,En ligne,18,F
+D520,Kara,Binah,Pagouda,Kwé,Livre de famille,Civil,101,43,0.03,2023-03-22,Nouveau mariage,En cours,Guichet,84,M
+D521,Kara,Kozah,Kara,Kodjoviakopé,Casier judiciaire,Judiciaire,174,39,0.09,2023-04-16,Concours,Traitee,En ligne,21,F
+D522,Plateaux,Ogou,Atakpamé,Kodjoviakopé,Casier judiciaire,Judiciaire,76,18,0.03,2023-12-09,Concours,Traitee,Guichet,72,M
+D523,Maritime,Golfe,Lomé,Bè,Certificat de nationalité,Identité,58,24,0.07,2023-04-11,Première demande,Rejetée,En ligne,68,M
+D524,Savanes,Oti,Mango,Adidogomé,Casier judiciaire,Judiciaire,100,17,0.11,2023-09-22,Voyage,Rejetée,En ligne,23,F
+D525,Savanes,Tône,Dapaong,Hôpital,Certificat de nationalité,Identité,66,5,0.12,2023-03-28,Perte,Traitee,En ligne,31,F
+D526,Plateaux,Ogou,Atakpamé,Hedzranawoé,Certificat de nationalité,Identité,177,16,0.12,2023-07-22,Première demande,Traitee,Guichet,33,F
+D527,Kara,Binah,Pagouda,Amoutivé,Casier judiciaire,Judiciaire,51,21,0.06,2023-07-18,Emploi,En cours,En ligne,74,F
+D528,Maritime,Golfe,Tokoin,Hôpital,Certificat de nationalité,Identité,125,37,0.03,2023-10-14,Première demande,Rejetée,Guichet,33,M
+D529,Maritime,Golfe,Tokoin,Hôpital,Casier judiciaire,Judiciaire,194,3,0.11,2023-02-21,Emploi,Rejetée,Guichet,36,F
+D530,Savanes,Tône,Dapaong,Kodjoviakopé,Passeport,Voyage,130,32,0.02,2023-09-14,Perte,Rejetée,En ligne,28,M
+D531,Centrale,Tchaoudjo,Sokodé,Kodjoviakopé,Certificat de nationalité,Identité,162,39,0.11,2023-01-31,Perte,Traitee,Guichet,62,M
+D532,Maritime,Lacs,Aného,Kodjoviakopé,Passeport,Voyage,95,35,0.02,2023-04-07,Voyage,Traitee,En ligne,51,M
+D533,Kara,Binah,Pagouda,Hedzranawoé,Livre de famille,Civil,122,19,0.14,2023-05-04,Détérioration,En cours,En ligne,82,M
+D534,Kara,Binah,Pagouda,Kwé,Passeport,Voyage,138,43,0.11,2023-03-10,Page pleine,Traitee,En ligne,32,M
+D535,Maritime,Lacs,Aného,Kodjoviakopé,Certificat de nationalité,Identité,73,34,0.09,2023-02-27,Concours,Traitee,Guichet,65,M
+D536,Savanes,Tône,Dapaong,Amoutivé,Acte de naissance,Civil,21,36,0.04,2023-03-18,Reconstitution,Rejetée,En ligne,90,F
+D537,Kara,Binah,Pagouda,Agoè,Carte d'identité,Identité,191,1,0.09,2023-09-22,Perte,En cours,En ligne,22,F
+D538,Maritime,Lacs,Aného,Kodjoviakopé,Casier judiciaire,Judiciaire,182,17,0.09,2023-11-13,Voyage,Traitee,Guichet,49,F
+D539,Kara,Binah,Pagouda,Tokoin,Acte de naissance,Civil,72,5,0.1,2023-10-23,Perte,Traitee,En ligne,48,M
+D540,Kara,Binah,Pagouda,Amoutivé,Livre de famille,Civil,80,25,0.07,2023-07-19,Perte,En cours,Guichet,67,M
+D541,Plateaux,Kloto,Kpalimé,Bè,Carte d'identité,Identité,187,32,0.04,2023-07-23,Vol,En cours,Guichet,90,M
+D542,Centrale,Sotouboua,Sotouboua,Hôpital,Passeport,Voyage,106,45,0.09,2023-10-16,Page pleine,Rejetée,Guichet,59,F
+D543,Centrale,Tchaoudjo,Sokodé,Golfe,Passeport,Voyage,38,43,0.1,2023-11-14,Expiration,Rejetée,Guichet,90,F
+D544,Centrale,Tchaoudjo,Sokodé,Kodjoviakopé,Certificat de nationalité,Identité,104,10,0.09,2023-09-03,Concours,Traitee,Guichet,47,M
+D545,Plateaux,Haho,Notsé,Hôpital,Casier judiciaire,Judiciaire,35,38,0.02,2023-04-15,Emploi,En cours,En ligne,87,F
+D546,Plateaux,Haho,Notsé,Amoutivé,Passeport,Voyage,59,44,0.14,2023-10-29,Expiration,Traitee,Guichet,72,F
+D547,Plateaux,Ogou,Atakpamé,Kwé,Livre de famille,Civil,133,16,0.02,2023-06-24,Nouveau mariage,Rejetée,Guichet,58,M
+D548,Maritime,Vo,Vogan,Golfe,Passeport,Voyage,155,3,0.15,2023-12-31,Voyage,Traitee,En ligne,86,M
+D549,Centrale,Tchaoudjo,Sokodé,Bè,Acte de naissance,Civil,73,42,0.05,2023-03-03,Reconstitution,Rejetée,Guichet,58,F
+D550,Plateaux,Ogou,Atakpamé,Amoutivé,Acte de naissance,Civil,157,12,0.04,2023-01-07,Detérioré,Rejetée,Guichet,61,M
+D551,Maritime,Vo,Vogan,Bè,Livre de famille,Civil,56,19,0.06,2023-11-13,Détérioration,Rejetée,Guichet,48,F
+D552,Kara,Kozah,Kara,Hôpital,Carte d'identité,Identité,151,28,0.11,2023-04-18,Première demande,En cours,En ligne,71,M
+D553,Maritime,Lacs,Aného,Kwé,Livre de famille,Civil,13,26,0.09,2023-12-19,Nouveau mariage,Rejetée,En ligne,22,F
+D554,Kara,Binah,Pagouda,Nyékonakpoé,Acte de naissance,Civil,195,45,0.12,2023-09-21,Reconstitution,Rejetée,Guichet,41,M
+D555,Savanes,Oti,Mango,Nyékonakpoé,Livre de famille,Civil,168,26,0.09,2023-05-26,Perte,Traitee,Guichet,64,M
+D556,Savanes,Tône,Dapaong,Tokoin,Acte de naissance,Civil,169,13,0.01,2023-06-13,Perte,Rejetée,En ligne,71,F
+D557,Centrale,Tchaoudjo,Sokodé,Nyékonakpoé,Livre de famille,Civil,195,37,0.08,2023-09-07,Perte,En cours,Guichet,24,F
+D558,Plateaux,Haho,Notsé,Kwé,Carte d'identité,Identité,148,28,0.11,2023-10-26,Expiration,Rejetée,En ligne,27,M
+D559,Savanes,Oti,Mango,Kwé,Certificat de nationalité,Identité,109,21,0.02,2023-08-27,Concours,Rejetée,En ligne,61,M
+D560,Centrale,Tchaoudjo,Sokodé,Adidogomé,Carte d'identité,Identité,94,45,0.12,2023-03-08,Perte,Rejetée,Guichet,54,F
+D561,Centrale,Tchaoudjo,Sokodé,Hôpital,Casier judiciaire,Judiciaire,86,12,0.11,2023-08-22,Emploi,Rejetée,En ligne,73,F
+D562,Centrale,Sotouboua,Sotouboua,Golfe,Passeport,Voyage,91,26,0.05,2023-04-03,Voyage,Traitee,En ligne,75,F
+D563,Plateaux,Haho,Notsé,Adidogomé,Passeport,Voyage,77,45,0.01,2023-06-19,Page pleine,Traitee,Guichet,50,F
+D564,Savanes,Tône,Dapaong,Kodjoviakopé,Certificat de nationalité,Identité,30,23,0.01,2023-07-05,Perte,En cours,En ligne,70,M
+D565,Savanes,Tône,Dapaong,Nyékonakpoé,Certificat de nationalité,Identité,39,8,0.15,2023-06-17,Concours,En cours,En ligne,47,M
+D566,Maritime,Golfe,Lomé,Kwé,Passeport,Voyage,182,44,0.0,2023-07-09,Expiration,En cours,En ligne,59,M
+D567,Kara,Binah,Pagouda,Kwé,Acte de naissance,Civil,153,2,0.09,2023-06-08,Perte,En cours,En ligne,18,F
+D568,Kara,Binah,Pagouda,Hedzranawoé,Acte de naissance,Civil,125,11,0.03,2023-12-19,Erreur,En cours,En ligne,29,M
+D569,Centrale,Tchaoudjo,Sokodé,Kwé,Passeport,Voyage,115,31,0.05,2023-04-05,Perte,Rejetée,Guichet,48,M
+D570,Kara,Kozah,Kara,Amoutivé,Acte de naissance,Civil,62,43,0.14,2023-07-22,Perte,En cours,En ligne,77,M
+D571,Centrale,Sotouboua,Sotouboua,Golfe,Acte de naissance,Civil,42,15,0.11,2023-12-30,Perte,Traitee,En ligne,52,M
+D572,Savanes,Oti,Mango,Nyékonakpoé,Livre de famille,Civil,74,43,0.03,2023-05-02,Détérioration,Rejetée,Guichet,87,M
+D573,Kara,Kozah,Kara,Kodjoviakopé,Livre de famille,Civil,42,23,0.06,2023-03-06,Nouveau mariage,En cours,En ligne,28,F
+D574,Plateaux,Kloto,Kpalimé,Nyékonakpoé,Carte d'identité,Identité,43,11,0.1,2023-04-13,Détérioration,Traitee,En ligne,20,M
+D575,Plateaux,Kloto,Kpalimé,Amoutivé,Acte de naissance,Civil,33,18,0.15,2023-08-19,Perte,En cours,Guichet,42,F
+D576,Savanes,Oti,Mango,Bè,Certificat de nationalité,Identité,115,43,0.06,2023-02-01,Première demande,Rejetée,En ligne,82,M
+D577,Savanes,Tône,Dapaong,Tokoin,Carte d'identité,Identité,57,41,0.02,2023-02-05,Expiration,En cours,En ligne,87,M
+D578,Plateaux,Ogou,Atakpamé,Amoutivé,Livre de famille,Civil,48,4,0.03,2023-11-27,Détérioration,Traitee,En ligne,20,F
+D579,Plateaux,Ogou,Atakpamé,Agoè,Acte de naissance,Civil,177,2,0.09,2023-10-23,Reconstitution,Traitee,En ligne,32,M
+D580,Savanes,Tône,Dapaong,Tokoin,Passeport,Voyage,46,42,0.07,2023-12-20,Page pleine,Rejetée,Guichet,89,M
+D581,Kara,Kozah,Kara,Kodjoviakopé,Livre de famille,Civil,73,3,0.12,2023-05-11,Détérioration,En cours,Guichet,33,M
+D582,Centrale,Sotouboua,Sotouboua,Bè,Livre de famille,Civil,79,29,0.09,2023-02-10,Nouveau mariage,Traitee,En ligne,54,F
+D583,Kara,Kozah,Kara,Bè,Casier judiciaire,Judiciaire,157,31,0.04,2023-12-21,Emploi,En cours,En ligne,44,F
+D584,Maritime,Zio,Tsévié,Bè,Casier judiciaire,Judiciaire,143,19,0.02,2023-02-07,Emploi,Traitee,En ligne,29,F
+D585,Kara,Binah,Pagouda,Nyékonakpoé,Livre de famille,Civil,55,23,0.04,2023-07-02,Nouveau mariage,En cours,En ligne,22,M
+D586,Centrale,Sotouboua,Sotouboua,Kwé,Casier judiciaire,Judiciaire,157,32,0.15,2023-02-23,Concours,Traitee,En ligne,37,F
+D587,Centrale,Sotouboua,Sotouboua,Bè,Livre de famille,Civil,167,7,0.04,2023-06-19,Détérioration,Traitee,Guichet,33,M
+D588,Plateaux,Ogou,Atakpamé,Tokoin,Carte d'identité,Identité,186,42,0.05,2023-05-12,Expiration,En cours,Guichet,76,M
+D589,Savanes,Tône,Dapaong,Kodjoviakopé,Certificat de nationalité,Identité,95,5,0.01,2023-08-23,Concours,Rejetée,En ligne,18,F
+D590,Kara,Kozah,Kara,Adidogomé,Passeport,Voyage,145,35,0.13,2023-04-03,Expiration,En cours,Guichet,41,F
+D591,Maritime,Zio,Tsévié,Golfe,Passeport,Voyage,169,5,0.11,2023-01-12,Page pleine,En cours,Guichet,62,M
+D592,Maritime,Golfe,Bè,Amoutivé,Passeport,Voyage,82,42,0.05,2023-03-22,Perte,En cours,En ligne,28,F
+D593,Kara,Binah,Pagouda,Adidogomé,Casier judiciaire,Judiciaire,69,15,0.05,2023-04-16,Voyage,Traitee,En ligne,60,M
+D594,Maritime,Vo,Vogan,Golfe,Certificat de nationalité,Identité,126,10,0.02,2023-08-13,Première demande,En cours,En ligne,49,M
+D595,Kara,Kozah,Kara,Hedzranawoé,Livre de famille,Civil,158,3,0.06,2023-07-01,Perte,En cours,En ligne,22,F
+D596,Kara,Kozah,Kara,Bè,Livre de famille,Civil,15,26,0.07,2023-11-22,Nouveau mariage,Traitee,En ligne,84,M
+D597,Savanes,Oti,Mango,Amoutivé,Passeport,Voyage,92,38,0.14,2023-07-07,Expiration,Rejetée,Guichet,60,M
+D598,Maritime,Vo,Vogan,Nyékonakpoé,Certificat de nationalité,Identité,150,44,0.12,2023-08-09,Perte,Rejetée,Guichet,81,M
+D599,Savanes,Oti,Mango,Agoè,Acte de naissance,Civil,189,3,0.11,2023-08-03,Erreur,Rejetée,En ligne,37,M
+D600,Maritime,Golfe,Tokoin,Amoutivé,Livre de famille,Civil,134,1,0.08,2023-01-27,Nouveau mariage,Traitee,Guichet,37,M
